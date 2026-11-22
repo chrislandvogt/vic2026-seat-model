@@ -1,0 +1,32 @@
+{
+ "source": [
+  "data/curated/forecast-v1/anchor-2002.csv",
+  "data/curated/forecast-v1/anchor-2006.csv"
+ ],
+ "pairs": [
+  "2002-2006"
+ ],
+ "method": "root mean of per-pair variances",
+ "parties": {
+  "ALP": {
+   "seat_deviation_sd": 0.032261832054080966,
+   "regional_mean_sd": 0.014330779557141713,
+   "within_region_sd": 0.029078522486280244
+  },
+  "LNP": {
+   "seat_deviation_sd": 0.04067359706062062,
+   "regional_mean_sd": 0.021657147561809812,
+   "within_region_sd": 0.03597950954916699
+  },
+  "GRN": {
+   "seat_deviation_sd": 0.023734591409851312,
+   "regional_mean_sd": 0.013790713191371932,
+   "within_region_sd": 0.021483192774912948
+  },
+  "OTH": {
+   "seat_deviation_sd": 0.0506881555868201,
+   "regional_mean_sd": 0.020218596331525587,
+   "within_region_sd": 0.047244141958724804
+  }
+ }
+}

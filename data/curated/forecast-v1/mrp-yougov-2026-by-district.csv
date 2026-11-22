@@ -1,0 +1,89 @@
+district_id,district,mrp_alp,mrp_lnp,mrp_grn,mrp_on,mrp_ind,mrp_other_left,mrp_other_right,mrp_winner,mrp_winner_share,printed_sum,pdf_page
+albert-park,Albert Park,0.27,0.27,0.18,0.14,0.05,0.06,0.03,Labor,53.2%,100,30
+ashwood,Ashwood,0.27,0.32,0.12,0.16,0.05,0.04,0.03,Liberal,52.7%,99,30
+bass,Bass,0.2,0.27,0.08,0.33,0.04,0.04,0.03,One Nation,56.7%,99,31
+bayswater,Bayswater,0.23,0.28,0.1,0.24,0.05,0.05,0.04,Liberal,55.2%,99,29
+bellarine,Bellarine,0.25,0.26,0.12,0.23,0.05,0.05,0.03,Liberal,52.1%,99,32
+benambra,Benambra,0.09,0.32,0.05,0.24,0.21,0.04,0.04,Liberal,58.9%,99,32
+bendigo-east,Bendigo East,0.18,0.26,0.06,0.25,0.08,0.05,0.11,National,57.6%,99,32
+bendigo-west,Bendigo West,0.24,0.21,0.11,0.27,0.03,0.07,0.05,One Nation,51.5%,98,32
+bentleigh,Bentleigh,0.24,0.31,0.11,0.19,0.07,0.04,0.03,Liberal,54.4%,99,30
+berwick,Berwick,0.23,0.29,0.11,0.29,0.0,0.05,0.03,Liberal,57.7%,100,30
+box-hill,Box Hill,0.27,0.3,0.12,0.16,0.05,0.05,0.04,Liberal,51.2%,99,29
+brighton,Brighton,0.16,0.39,0.12,0.18,0.08,0.04,0.02,Liberal,62.1%,99,30
+broadmeadows,Broadmeadows,0.25,0.14,0.16,0.26,0.06,0.07,0.04,Labor,58.7%,98,29
+brunswick,Brunswick,0.3,0.11,0.33,0.08,0.02,0.09,0.06,Greens,50.8%,99,29
+bulleen,Bulleen,0.22,0.33,0.1,0.26,0.03,0.03,0.02,Liberal,60.0%,99,29
+bundoora,Bundoora,0.27,0.22,0.13,0.24,0.04,0.05,0.04,Labor,57.9%,99,29
+carrum,Carrum,0.25,0.2,0.11,0.3,0.03,0.06,0.04,One Nation,50.7%,99,30
+caulfield,Caulfield,0.22,0.32,0.12,0.17,0.07,0.05,0.03,Liberal,55.2%,98,30
+clarinda,Clarinda,0.31,0.25,0.1,0.2,0.06,0.06,0.02,Labor,51.6%,100,30
+cranbourne,Cranbourne,0.25,0.17,0.11,0.32,0.03,0.06,0.06,One Nation,51.2%,100,30
+croydon,Croydon,0.21,0.34,0.15,0.22,0.0,0.03,0.04,Liberal,58.7%,99,29
+dandenong,Dandenong,0.38,0.15,0.1,0.29,0.0,0.05,0.02,Labor,56.2%,99,30
+eildon,Eildon,0.17,0.25,0.11,0.36,0.04,0.04,0.03,Liberal,55.8%,100,32
+eltham,Eltham,0.28,0.27,0.15,0.2,0.0,0.05,0.04,Labor,50.5%,99,29
+essendon,Essendon,0.24,0.27,0.19,0.19,0.0,0.05,0.04,Liberal,50.0%,98,29
+eureka,Eureka,0.23,0.22,0.11,0.28,0.04,0.05,0.06,One Nation,53.3%,99,32
+euroa,Euroa,0.16,0.27,0.09,0.41,0.0,0.03,0.04,National,51.0%,100,32
+evelyn,Evelyn,0.15,0.33,0.11,0.29,0.04,0.04,0.04,Liberal,62.7%,100,31
+footscray,Footscray,0.29,0.14,0.24,0.16,0.0,0.11,0.06,Labor,53.3%,100,31
+frankston,Frankston,0.27,0.2,0.13,0.28,0.03,0.04,0.04,Labor,51.7%,99,30
+geelong,Geelong,0.28,0.21,0.15,0.22,0.04,0.05,0.04,Labor,53.9%,99,32
+gippsland-east,Gippsland East,0.12,0.41,0.06,0.37,0.0,0.02,0.03,National,58.5%,101,31
+gippsland-south,Gippsland South,0.14,0.34,0.06,0.36,0.05,0.03,0.03,National,57.4%,101,31
+glen-waverley,Glen Waverley,0.29,0.33,0.1,0.21,0.0,0.05,0.02,Liberal,54.6%,100,29
+greenvale,Greenvale,0.21,0.17,0.11,0.32,0.07,0.08,0.04,One Nation,52.3%,100,29
+hastings,Hastings,0.2,0.29,0.12,0.28,0.04,0.03,0.04,Liberal,58.8%,100,31
+hawthorn,Hawthorn,0.13,0.42,0.12,0.09,0.16,0.04,0.04,Liberal,62.3%,100,30
+ivanhoe,Ivanhoe,0.31,0.24,0.17,0.15,0.05,0.05,0.04,Labor,55.5%,101,29
+kalkallo,Kalkallo,0.23,0.15,0.11,0.28,0.1,0.09,0.04,Labor,51.2%,100,29
+kew,Kew,0.11,0.48,0.08,0.12,0.14,0.04,0.02,Liberal,67.9%,99,30
+kororoit,Kororoit,0.24,0.2,0.09,0.32,0.03,0.08,0.04,One Nation,52.5%,100,31
+lara,Lara,0.28,0.16,0.13,0.29,0.05,0.04,0.05,Labor,50.9%,100,32
+laverton,Laverton,0.29,0.14,0.13,0.26,0.04,0.1,0.03,Labor,55.9%,99,31
+lowan,Lowan,0.11,0.29,0.05,0.44,0.03,0.04,0.04,One Nation,50.3%,100,32
+macedon,Macedon,0.23,0.21,0.09,0.28,0.05,0.08,0.05,One Nation,53.0%,99,32
+malvern,Malvern,0.18,0.43,0.13,0.15,0.04,0.03,0.03,Liberal,62.2%,99,30
+melbourne,Melbourne,0.3,0.16,0.28,0.09,0.04,0.08,0.04,Labor,51.8%,99,29
+melton,Melton,0.22,0.19,0.09,0.33,0.06,0.05,0.05,One Nation,54.3%,99,32
+mildura,Mildura,0.07,0.4,0.04,0.27,0.16,0.03,0.03,National,65.8%,100,32
+mill-park,Mill Park,0.24,0.2,0.11,0.3,0.0,0.07,0.06,One Nation,51.3%,98,29
+monbulk,Monbulk,0.22,0.24,0.15,0.22,0.06,0.06,0.04,Liberal,55.6%,99,31
+mordialloc,Mordialloc,0.29,0.24,0.12,0.22,0.05,0.05,0.03,Labor,50.4%,100,30
+mornington,Mornington,0.16,0.33,0.06,0.23,0.16,0.04,0.02,Liberal,65.5%,100,31
+morwell,Morwell,0.12,0.33,0.05,0.28,0.1,0.03,0.09,National,61.7%,100,31
+mulgrave,Mulgrave,0.28,0.21,0.07,0.21,0.15,0.07,0.02,Labor,52.7%,101,30
+murray-plains,Murray Plains,0.1,0.34,0.05,0.44,0.01,0.02,0.04,National,50.9%,100,32
+narracan,Narracan,0.0,0.37,0.05,0.34,0.11,0.04,0.09,Liberal,59.2%,100,31
+narre-warren-north,Narre Warren North,0.27,0.15,0.11,0.33,0.03,0.07,0.03,One Nation,50.2%,99,30
+narre-warren-south,Narre Warren South,0.29,0.16,0.1,0.3,0.04,0.07,0.03,Labor,51.5%,99,30
+nepean,Nepean,0.19,0.3,0.08,0.31,0.06,0.03,0.02,Liberal,60.7%,99,31
+niddrie,Niddrie,0.22,0.31,0.13,0.27,0.0,0.03,0.04,Liberal,57.8%,100,31
+northcote,Northcote,0.31,0.12,0.26,0.12,0.02,0.1,0.07,Labor,53.1%,100,29
+oakleigh,Oakleigh,0.31,0.26,0.14,0.15,0.05,0.04,0.04,Labor,53.7%,99,30
+ovens-valley,Ovens Valley,0.13,0.27,0.07,0.44,0.0,0.04,0.05,One Nation,50.7%,100,32
+pakenham,Pakenham,0.16,0.29,0.09,0.28,0.05,0.05,0.07,Liberal,61.1%,99,31
+pascoe-vale,Pascoe Vale,0.25,0.18,0.26,0.14,0.03,0.08,0.05,Greens,56.4%,99,29
+point-cook,Point Cook,0.26,0.22,0.1,0.24,0.05,0.08,0.03,Labor,57.1%,98,31
+polwarth,Polwarth,0.2,0.29,0.11,0.28,0.04,0.05,0.03,Liberal,57.6%,100,32
+prahran,Prahran,0.29,0.22,0.26,0.1,0.04,0.05,0.04,Labor,59.6%,100,30
+preston,Preston,0.27,0.16,0.19,0.19,0.06,0.07,0.05,Labor,64.0%,99,29
+richmond,Richmond,0.29,0.14,0.3,0.09,0.04,0.09,0.05,Greens,50.1%,100,29
+ringwood,Ringwood,0.27,0.29,0.14,0.19,0.0,0.04,0.05,Liberal,51.8%,98,29
+ripon,Ripon,0.19,0.2,0.08,0.39,0.04,0.05,0.04,One Nation,61.3%,99,32
+rowville,Rowville,0.2,0.35,0.08,0.2,0.09,0.05,0.03,Liberal,59.6%,100,30
+sandringham,Sandringham,0.17,0.4,0.11,0.15,0.1,0.03,0.03,Liberal,61.8%,99,30
+shepparton,Shepparton,0.1,0.4,0.05,0.27,0.1,0.03,0.04,National,64.9%,99,32
+south-barwon,South Barwon,0.25,0.24,0.17,0.21,0.0,0.07,0.06,Labor,51.0%,100,32
+south-west-coast,South-West Coast,0.09,0.38,0.04,0.21,0.21,0.04,0.04,Liberal,61.0%,101,32
+st-albans,St Albans,0.27,0.14,0.12,0.33,0.04,0.06,0.03,Labor,50.1%,99,31
+sunbury,Sunbury,0.21,0.25,0.11,0.29,0.03,0.05,0.05,Labor,51.6%,99,31
+sydenham,Sydenham,0.21,0.18,0.09,0.38,0.0,0.08,0.05,One Nation,58.8%,99,31
+tarneit,Tarneit,0.27,0.15,0.1,0.3,0.04,0.1,0.03,Labor,51.8%,99,31
+thomastown,Thomastown,0.28,0.18,0.09,0.33,0.0,0.07,0.04,One Nation,50.8%,99,29
+warrandyte,Warrandyte,0.2,0.39,0.1,0.21,0.03,0.04,0.03,Liberal,62.0%,100,29
+wendouree,Wendouree,0.28,0.18,0.12,0.26,0.04,0.04,0.06,Labor,51.4%,98,32
+werribee,Werribee,0.25,0.17,0.11,0.26,0.08,0.07,0.04,Labor,52.6%,98,31
+williamstown,Williamstown,0.28,0.23,0.18,0.21,0.0,0.05,0.05,Labor,52.6%,100,31
+yan-yean,Yan Yean,0.19,0.25,0.11,0.32,0.0,0.06,0.06,One Nation,57.7%,99,32

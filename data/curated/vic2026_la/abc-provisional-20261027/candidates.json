@@ -1,0 +1,2782 @@
+[
+{
+"district_id": "caulfield",
+"candidate_name": "Malak Ababneh",
+"party_id": "VS"
+},
+{
+"district_id": "carrum",
+"candidate_name": "Reema Ababneh",
+"party_id": "VS"
+},
+{
+"district_id": "caulfield",
+"candidate_name": "Michael Abelman",
+"party_id": "ON"
+},
+{
+"district_id": "frankston",
+"candidate_name": "Chrysten Abraham",
+"party_id": "IND"
+},
+{
+"district_id": "morwell",
+"candidate_name": "Natalie Acreman",
+"party_id": "VS"
+},
+{
+"district_id": "essendon",
+"candidate_name": "Ava Adams",
+"party_id": "IND"
+},
+{
+"district_id": "wendouree",
+"candidate_name": "Juliana Addison",
+"party_id": "ALP"
+},
+{
+"district_id": "melton",
+"candidate_name": "Fiona Adin-James",
+"party_id": "AJP"
+},
+{
+"district_id": "box-hill",
+"candidate_name": "Saravina Afaj",
+"party_id": "VS"
+},
+{
+"district_id": "preston",
+"candidate_name": "Hamza Al Katranji",
+"party_id": "LIB"
+},
+{
+"district_id": "brunswick",
+"candidate_name": "Jack Amanatidis",
+"party_id": "IND"
+},
+{
+"district_id": "frankston",
+"candidate_name": "Bree Ambry",
+"party_id": "LIB"
+},
+{
+"district_id": "ripon",
+"candidate_name": "Trevor Andrei",
+"party_id": "IND"
+},
+{
+"district_id": "pascoe-vale",
+"candidate_name": "Jacob Andrewartha",
+"party_id": "SALL"
+},
+{
+"district_id": "hastings",
+"candidate_name": "Peter Angelico",
+"party_id": "ON"
+},
+{
+"district_id": "thomastown",
+"candidate_name": "Nadia Anthony",
+"party_id": "ON"
+},
+{
+"district_id": "richmond",
+"candidate_name": "Charles Aponso",
+"party_id": "LIB"
+},
+{
+"district_id": "ripon",
+"candidate_name": "Jo Armstrong",
+"party_id": "NAT"
+},
+{
+"district_id": "preston",
+"candidate_name": "Serena Ashmore",
+"party_id": "VS"
+},
+{
+"district_id": "pascoe-vale",
+"candidate_name": "Kathrine Ashton",
+"party_id": "FFP"
+},
+{
+"district_id": "bulleen",
+"candidate_name": "Mahdi Athari",
+"party_id": "ON"
+},
+{
+"district_id": "northcote",
+"candidate_name": "Lynda Awad",
+"party_id": "LIB"
+},
+{
+"district_id": "brighton",
+"candidate_name": "Ebony Bain",
+"party_id": "GRN"
+},
+{
+"district_id": "clarinda",
+"candidate_name": "Gavin Bain",
+"party_id": "ON"
+},
+{
+"district_id": "box-hill",
+"candidate_name": "Jamie Baker",
+"party_id": "ON"
+},
+{
+"district_id": "bendigo-west",
+"candidate_name": "Brenton Baldwin",
+"party_id": "ALP"
+},
+{
+"district_id": "eureka",
+"candidate_name": "Paul Ballinger",
+"party_id": "ON"
+},
+{
+"district_id": "eildon",
+"candidate_name": "Tim Barber",
+"party_id": "ON"
+},
+{
+"district_id": "essendon",
+"candidate_name": "John Barnes",
+"party_id": "ON"
+},
+{
+"district_id": "ripon",
+"candidate_name": "Jeff Barry",
+"party_id": "LDP"
+},
+{
+"district_id": "gippsland-south",
+"candidate_name": "Amy Barry-Macaulay",
+"party_id": "ALP"
+},
+{
+"district_id": "sydenham",
+"candidate_name": "Nancy Batres-Croes",
+"party_id": "FFP"
+},
+{
+"district_id": "berwick",
+"candidate_name": "Brad Battin",
+"party_id": "LIB"
+},
+{
+"district_id": "sydenham",
+"candidate_name": "Joh Bauch",
+"party_id": "ON"
+},
+{
+"district_id": "mornington",
+"candidate_name": "Ashli Beards",
+"party_id": "ON"
+},
+{
+"district_id": "yan-yean",
+"candidate_name": "Andrew Bell",
+"party_id": "VS"
+},
+{
+"district_id": "mildura",
+"candidate_name": "Jade Benham",
+"party_id": "NAT"
+},
+{
+"district_id": "dandenong",
+"candidate_name": "William Billings",
+"party_id": "LIB"
+},
+{
+"district_id": "melton",
+"candidate_name": "Jarrod Bingham",
+"party_id": "LIB"
+},
+{
+"district_id": "monbulk",
+"candidate_name": "Merran Blair",
+"party_id": "GRN"
+},
+{
+"district_id": "bayswater",
+"candidate_name": "Kayte Bleakney",
+"party_id": "ON"
+},
+{
+"district_id": "sandringham",
+"candidate_name": "Anthony Blight",
+"party_id": "ON"
+},
+{
+"district_id": "malvern",
+"candidate_name": "Edward Bode",
+"party_id": "ON"
+},
+{
+"district_id": "albert-park",
+"candidate_name": "Colleen Bolger",
+"party_id": "VS"
+},
+{
+"district_id": "broadmeadows",
+"candidate_name": "Sue Bolton",
+"party_id": "SALL"
+},
+{
+"district_id": "macedon",
+"candidate_name": "Dom Bonanno",
+"party_id": "IND"
+},
+{
+"district_id": "eildon",
+"candidate_name": "Chloe Bond",
+"party_id": "AJP"
+},
+{
+"district_id": "melton",
+"candidate_name": "Broden Borg",
+"party_id": "ALP"
+},
+{
+"district_id": "clarinda",
+"candidate_name": "Conor Boyd-Eedle",
+"party_id": "GRN"
+},
+{
+"district_id": "sunbury",
+"candidate_name": "Adam Bremner",
+"party_id": "VS"
+},
+{
+"district_id": "ripon",
+"candidate_name": "Taylah Brennan-Jones",
+"party_id": "VS"
+},
+{
+"district_id": "mordialloc",
+"candidate_name": "Alex Breskin",
+"party_id": "GRN"
+},
+{
+"district_id": "williamstown",
+"candidate_name": "Tony Briffa",
+"party_id": "IND"
+},
+{
+"district_id": "monbulk",
+"candidate_name": "Noah Briggs",
+"party_id": "VS"
+},
+{
+"district_id": "croydon",
+"candidate_name": "Glenn Brindley",
+"party_id": "ON"
+},
+{
+"district_id": "south-west-coast",
+"candidate_name": "Roma Britnell",
+"party_id": "LIB"
+},
+{
+"district_id": "bundoora",
+"candidate_name": "Colin Brooks",
+"party_id": "ALP"
+},
+{
+"district_id": "nepean",
+"candidate_name": "Mike Brown",
+"party_id": "FFP"
+},
+{
+"district_id": "mornington",
+"candidate_name": "Gene Brownlie",
+"party_id": "VS"
+},
+{
+"district_id": "shepparton",
+"candidate_name": "Phillip Bryant",
+"party_id": "ON"
+},
+{
+"district_id": "south-west-coast",
+"candidate_name": "Tamhas Buchan",
+"party_id": "FFP"
+},
+{
+"district_id": "mulgrave",
+"candidate_name": "Connor Buchanan",
+"party_id": "VS"
+},
+{
+"district_id": "bass",
+"candidate_name": "Chris Buckingham",
+"party_id": "ALP"
+},
+{
+"district_id": "oakleigh",
+"candidate_name": "Rowdy Bugter",
+"party_id": "VS"
+},
+{
+"district_id": "sunbury",
+"candidate_name": "Josh Bull",
+"party_id": "ALP"
+},
+{
+"district_id": "wendouree",
+"candidate_name": "Ellen Burns",
+"party_id": "GRN"
+},
+{
+"district_id": "warrandyte",
+"candidate_name": "Mark Burnside",
+"party_id": "ON"
+},
+{
+"district_id": "eltham",
+"candidate_name": "Rachel Busbridge",
+"party_id": "GRN"
+},
+{
+"district_id": "bayswater",
+"candidate_name": "Julie Buxton",
+"party_id": "ALP"
+},
+{
+"district_id": "ripon",
+"candidate_name": "Donna Buxton",
+"party_id": "ON"
+},
+{
+"district_id": "niddrie",
+"candidate_name": "Samantha Byrne",
+"party_id": "LIB"
+},
+{
+"district_id": "wendouree",
+"candidate_name": "Ruth Byrne",
+"party_id": "FFP"
+},
+{
+"district_id": "eltham",
+"candidate_name": "Paul Byrnes",
+"party_id": "LIB"
+},
+{
+"district_id": "morwell",
+"candidate_name": "Martin Cameron",
+"party_id": "NAT"
+},
+{
+"district_id": "melbourne",
+"candidate_name": "Rafael Camillo",
+"party_id": "LIB"
+},
+{
+"district_id": "euroa",
+"candidate_name": "Steve Campbell",
+"party_id": "ON"
+},
+{
+"district_id": "broadmeadows",
+"candidate_name": "Mutullah Can Yolbulan",
+"party_id": "VS"
+},
+{
+"district_id": "ivanhoe",
+"candidate_name": "Anthony Carbines",
+"party_id": "ALP"
+},
+{
+"district_id": "niddrie",
+"candidate_name": "Ben Carroll",
+"party_id": "ALP"
+},
+{
+"district_id": "oakleigh",
+"candidate_name": "Brooke Carter",
+"party_id": "ON"
+},
+{
+"district_id": "kew",
+"candidate_name": "Jackie Carter",
+"party_id": "GRN"
+},
+{
+"district_id": "kororoit",
+"candidate_name": "Jack Chakoma",
+"party_id": "LIB"
+},
+{
+"district_id": "nepean",
+"candidate_name": "Tamara Champion",
+"party_id": "AJP"
+},
+{
+"district_id": "footscray",
+"candidate_name": "Tim Chang",
+"party_id": "LIB"
+},
+{
+"district_id": "yan-yean",
+"candidate_name": "Troy Cheers",
+"party_id": "LDP"
+},
+{
+"district_id": "frankston",
+"candidate_name": "Andrew Cheeseman",
+"party_id": "VS"
+},
+{
+"district_id": "preston",
+"candidate_name": "Zheng Chin",
+"party_id": "IND"
+},
+{
+"district_id": "pascoe-vale",
+"candidate_name": "Anthony Cianflone",
+"party_id": "ALP"
+},
+{
+"district_id": "werribee",
+"candidate_name": "Reece Clark",
+"party_id": "LIB"
+},
+{
+"district_id": "bayswater",
+"candidate_name": "Mathew Clarke",
+"party_id": "IND"
+},
+{
+"district_id": "euroa",
+"candidate_name": "Annabelle Cleeland",
+"party_id": "NAT"
+},
+{
+"district_id": "mildura",
+"candidate_name": "Katie Clements",
+"party_id": "GRN"
+},
+{
+"district_id": "preston",
+"candidate_name": "Peita Collard",
+"party_id": "AJP"
+},
+{
+"district_id": "melbourne",
+"candidate_name": "Matthew Collins",
+"party_id": "ON"
+},
+{
+"district_id": "wendouree",
+"candidate_name": "Melissa Collins",
+"party_id": "AJP"
+},
+{
+"district_id": "laverton",
+"candidate_name": "Sarah Connolly",
+"party_id": "ALP"
+},
+{
+"district_id": "albert-park",
+"candidate_name": "Andrew Cook",
+"party_id": "LIB"
+},
+{
+"district_id": "murray-plains",
+"candidate_name": "Zoe Cook",
+"party_id": "GRN"
+},
+{
+"district_id": "mulgrave",
+"candidate_name": "Ian Cook",
+"party_id": "IND"
+},
+{
+"district_id": "bayswater",
+"candidate_name": "Gary Coombes",
+"party_id": "FFP"
+},
+{
+"district_id": "mildura",
+"candidate_name": "Guy Cooper",
+"party_id": "ON"
+},
+{
+"district_id": "shepparton",
+"candidate_name": "Lou Costa",
+"party_id": "IND"
+},
+{
+"district_id": "sunbury",
+"candidate_name": "Simmone Cottom",
+"party_id": "LIB"
+},
+{
+"district_id": "hastings",
+"candidate_name": "Chloe Coulson",
+"party_id": "AJP"
+},
+{
+"district_id": "geelong",
+"candidate_name": "Christine Couzens",
+"party_id": "ALP"
+},
+{
+"district_id": "st-albans",
+"candidate_name": "John Cowell",
+"party_id": "ON"
+},
+{
+"district_id": "glen-waverley",
+"candidate_name": "Brad Cox",
+"party_id": "ON"
+},
+{
+"district_id": "ivanhoe",
+"candidate_name": "Nina Crawley",
+"party_id": "GRN"
+},
+{
+"district_id": "mornington",
+"candidate_name": "Chris Crewther",
+"party_id": "LIB"
+},
+{
+"district_id": "hawthorn",
+"candidate_name": "Clive Crosby",
+"party_id": "ALP"
+},
+{
+"district_id": "narre-warren-north",
+"candidate_name": "Sebastian Crutchfield",
+"party_id": "ON"
+},
+{
+"district_id": "mildura",
+"candidate_name": "Ali Cupper",
+"party_id": "IND"
+},
+{
+"district_id": "ringwood",
+"candidate_name": "Prue Cutts",
+"party_id": "IND"
+},
+{
+"district_id": "dandenong",
+"candidate_name": "Catherine D'Arcy",
+"party_id": "GRN"
+},
+{
+"district_id": "sunbury",
+"candidate_name": "Elita Dabrowski",
+"party_id": "ON"
+},
+{
+"district_id": "kalkallo",
+"candidate_name": "Eddie Dadisho",
+"party_id": "LIB"
+},
+{
+"district_id": "bulleen",
+"candidate_name": "Tim Dale",
+"party_id": "ALP"
+},
+{
+"district_id": "sydenham",
+"candidate_name": "Matthew De Angelis",
+"party_id": "IND"
+},
+{
+"district_id": "geelong",
+"candidate_name": "John De Lorenzo",
+"party_id": "ON"
+},
+{
+"district_id": "monbulk",
+"candidate_name": "Daniela De Martino",
+"party_id": "ALP"
+},
+{
+"district_id": "berwick",
+"candidate_name": "Vincenzo De Paolis",
+"party_id": "FFP"
+},
+{
+"district_id": "berwick",
+"candidate_name": "Roshan De Silva",
+"party_id": "GRN"
+},
+{
+"district_id": "macedon",
+"candidate_name": "Annette Death",
+"party_id": "ALP"
+},
+{
+"district_id": "narre-warren-south",
+"candidate_name": "Lydia Denker",
+"party_id": "LDP"
+},
+{
+"district_id": "hastings",
+"candidate_name": "Michael Denman",
+"party_id": "VS"
+},
+{
+"district_id": "narracan",
+"candidate_name": "Geoff Dethlefs",
+"party_id": "FFP"
+},
+{
+"district_id": "prahran",
+"candidate_name": "Angelica Di Camillo",
+"party_id": "GRN"
+},
+{
+"district_id": "oakleigh",
+"candidate_name": "Steve Dimopoulos",
+"party_id": "ALP"
+},
+{
+"district_id": "richmond",
+"candidate_name": "Chris Dite",
+"party_id": "VS"
+},
+{
+"district_id": "caulfield",
+"candidate_name": "Angel Dolejsi",
+"party_id": "GRN"
+},
+{
+"district_id": "prahran",
+"candidate_name": "Clayton Doueihi",
+"party_id": "VS"
+},
+{
+"district_id": "yan-yean",
+"candidate_name": "Amanda Dow",
+"party_id": "LIB"
+},
+{
+"district_id": "monbulk",
+"candidate_name": "Adrian Dowell",
+"party_id": "ON"
+},
+{
+"district_id": "lowan",
+"candidate_name": "Jos Downey",
+"party_id": "VS"
+},
+{
+"district_id": "albert-park",
+"candidate_name": "Georgie Dragwidge",
+"party_id": "IND"
+},
+{
+"district_id": "ripon",
+"candidate_name": "Tim Drylie",
+"party_id": "GRN"
+},
+{
+"district_id": "mill-park",
+"candidate_name": "Joel Drysdale",
+"party_id": "LIB"
+},
+{
+"district_id": "footscray",
+"candidate_name": "Jasmine Duff",
+"party_id": "VS"
+},
+{
+"district_id": "st-albans",
+"candidate_name": "Rob Dunstan",
+"party_id": "LIB"
+},
+{
+"district_id": "broadmeadows",
+"candidate_name": "Baris Duzova",
+"party_id": "LIB"
+},
+{
+"district_id": "pakenham",
+"candidate_name": "Radmila Dyson",
+"party_id": "LIB"
+},
+{
+"district_id": "frankston",
+"candidate_name": "Paul Edbrooke",
+"party_id": "ALP"
+},
+{
+"district_id": "tarneit",
+"candidate_name": "Andrew Elsbury",
+"party_id": "TWP"
+},
+{
+"district_id": "werribee",
+"candidate_name": "Matthew Emerson",
+"party_id": "FFP"
+},
+{
+"district_id": "gippsland-east",
+"candidate_name": "Amy Espeseth",
+"party_id": "VS"
+},
+{
+"district_id": "gippsland-south",
+"candidate_name": "Zave Evans",
+"party_id": "GRN"
+},
+{
+"district_id": "brighton",
+"candidate_name": "Alexander Fagan",
+"party_id": "ON"
+},
+{
+"district_id": "box-hill",
+"candidate_name": "Peter Fagg",
+"party_id": "FFP"
+},
+{
+"district_id": "brunswick",
+"candidate_name": "Naomi Farmer",
+"party_id": "VS"
+},
+{
+"district_id": "narracan",
+"candidate_name": "Wayne Farnham",
+"party_id": "LIB"
+},
+{
+"district_id": "croydon",
+"candidate_name": "Richard Farr",
+"party_id": "ALP"
+},
+{
+"district_id": "bayswater",
+"candidate_name": "Alec Ferguson",
+"party_id": "VS"
+},
+{
+"district_id": "croydon",
+"candidate_name": "Lini Fernando",
+"party_id": "GRN"
+},
+{
+"district_id": "ovens-valley",
+"candidate_name": "Julian Fidge",
+"party_id": "LDP"
+},
+{
+"district_id": "shepparton",
+"candidate_name": "Cayla Fin",
+"party_id": "ALP"
+},
+{
+"district_id": "monbulk",
+"candidate_name": "Clare Fitzmaurice",
+"party_id": "LIB"
+},
+{
+"district_id": "geelong",
+"candidate_name": "Emilie Flynn",
+"party_id": "GRN"
+},
+{
+"district_id": "pascoe-vale",
+"candidate_name": "Andrew Forehan",
+"party_id": "ON"
+},
+{
+"district_id": "cranbourne",
+"candidate_name": "Shane Foreman",
+"party_id": "FFP"
+},
+{
+"district_id": "dandenong",
+"candidate_name": "Jordan Forte",
+"party_id": "LDP"
+},
+{
+"district_id": "mulgrave",
+"candidate_name": "Eden Foster",
+"party_id": "ALP"
+},
+{
+"district_id": "sandringham",
+"candidate_name": "Timon Fotakis",
+"party_id": "GRN"
+},
+{
+"district_id": "ashwood",
+"candidate_name": "Matt Fregon",
+"party_id": "ALP"
+},
+{
+"district_id": "pakenham",
+"candidate_name": "Raymond French",
+"party_id": "IND"
+},
+{
+"district_id": "benambra",
+"candidate_name": "Mike Fuery",
+"party_id": "AJP"
+},
+{
+"district_id": "greenvale",
+"candidate_name": "Rosanna Furina",
+"party_id": "AJP"
+},
+{
+"district_id": "williamstown",
+"candidate_name": "Gill Gannon",
+"party_id": "TWP"
+},
+{
+"district_id": "ringwood",
+"candidate_name": "Jack Gardner",
+"party_id": "VS"
+},
+{
+"district_id": "south-barwon",
+"candidate_name": "Josh Geard",
+"party_id": "ON"
+},
+{
+"district_id": "lara",
+"candidate_name": "Ella George",
+"party_id": "ALP"
+},
+{
+"district_id": "eildon",
+"candidate_name": "Kevin Gibson",
+"party_id": "ALP"
+},
+{
+"district_id": "ovens-valley",
+"candidate_name": "Ben Gilbert",
+"party_id": "GRN"
+},
+{
+"district_id": "caulfield",
+"candidate_name": "Geneviève Gilbert",
+"party_id": "FFP"
+},
+{
+"district_id": "mornington",
+"candidate_name": "Melissa Goffin",
+"party_id": "IND"
+},
+{
+"district_id": "northcote",
+"candidate_name": "Campbell Gome",
+"party_id": "GRN"
+},
+{
+"district_id": "gippsland-east",
+"candidate_name": "Steve Goodman",
+"party_id": "ON"
+},
+{
+"district_id": "south-barwon",
+"candidate_name": "Madilyn Gorman",
+"party_id": "VS"
+},
+{
+"district_id": "frankston",
+"candidate_name": "Katie Goulas",
+"party_id": "GRN"
+},
+{
+"district_id": "south-west-coast",
+"candidate_name": "Andrew Govanstone",
+"party_id": "ALP"
+},
+{
+"district_id": "sunbury",
+"candidate_name": "Lauren Granger-Brown",
+"party_id": "GRN"
+},
+{
+"district_id": "richmond",
+"candidate_name": "Bernadette Gray",
+"party_id": "LDP"
+},
+{
+"district_id": "point-cook",
+"candidate_name": "Mark Grech",
+"party_id": "TWP"
+},
+{
+"district_id": "melbourne",
+"candidate_name": "Davydd Griffiths",
+"party_id": "ALP"
+},
+{
+"district_id": "pakenham",
+"candidate_name": "Stephanie Grigg",
+"party_id": "VS"
+},
+{
+"district_id": "kororoit",
+"candidate_name": "Luba Grigorovitch",
+"party_id": "ALP"
+},
+{
+"district_id": "croydon",
+"candidate_name": "Beth Grimshaw",
+"party_id": "VS"
+},
+{
+"district_id": "geelong",
+"candidate_name": "Brenden Grull",
+"party_id": "SALL"
+},
+{
+"district_id": "murray-plains",
+"candidate_name": "Christine Grundy",
+"party_id": "ALP"
+},
+{
+"district_id": "preston",
+"candidate_name": "Franco Guardiani",
+"party_id": "ON"
+},
+{
+"district_id": "eildon",
+"candidate_name": "Talia Gulpilil",
+"party_id": "GRN"
+},
+{
+"district_id": "berwick",
+"candidate_name": "Nalinda Amarasiri Gunawardana",
+"party_id": "VS"
+},
+{
+"district_id": "bulleen",
+"candidate_name": "Matthew Guy",
+"party_id": "LIB"
+},
+{
+"district_id": "brighton",
+"candidate_name": "Anthony Hain",
+"party_id": "LDP"
+},
+{
+"district_id": "thomastown",
+"candidate_name": "Bronwyn Halfpenny",
+"party_id": "ALP"
+},
+{
+"district_id": "footscray",
+"candidate_name": "Katie Hall",
+"party_id": "ALP"
+},
+{
+"district_id": "ringwood",
+"candidate_name": "Rachel Halse",
+"party_id": "ALP"
+},
+{
+"district_id": "bass",
+"candidate_name": "Rochelle Halstead",
+"party_id": "LIB"
+},
+{
+"district_id": "box-hill",
+"candidate_name": "Paul Hamer",
+"party_id": "ALP"
+},
+{
+"district_id": "malvern",
+"candidate_name": "Amelia Hamer",
+"party_id": "LIB"
+},
+{
+"district_id": "narre-warren-south",
+"candidate_name": "Trevor Hammond",
+"party_id": "ON"
+},
+{
+"district_id": "pakenham",
+"candidate_name": "Kate Hands",
+"party_id": "LDP"
+},
+{
+"district_id": "eureka",
+"candidate_name": "Ian Harkness",
+"party_id": "FFP"
+},
+{
+"district_id": "frankston",
+"candidate_name": "Julie Harman",
+"party_id": "AJP"
+},
+{
+"district_id": "niddrie",
+"candidate_name": "Salomae Haselgrove",
+"party_id": "AJP"
+},
+{
+"district_id": "kororoit",
+"candidate_name": "Rayan Hassan",
+"party_id": "VS"
+},
+{
+"district_id": "lara",
+"candidate_name": "Sarah Hathway",
+"party_id": "SALL"
+},
+{
+"district_id": "bendigo-east",
+"candidate_name": "Cheryl Hawken",
+"party_id": "ON"
+},
+{
+"district_id": "ripon",
+"candidate_name": "Martha Haylett",
+"party_id": "ALP"
+},
+{
+"district_id": "evelyn",
+"candidate_name": "Jan Heald",
+"party_id": "AJP"
+},
+{
+"district_id": "nepean",
+"candidate_name": "Sianan Healy",
+"party_id": "GRN"
+},
+{
+"district_id": "clarinda",
+"candidate_name": "Meng Heang Tak",
+"party_id": "ALP"
+},
+{
+"district_id": "south-barwon",
+"candidate_name": "Freya Hedley",
+"party_id": "SALL"
+},
+{
+"district_id": "brunswick",
+"candidate_name": "Adam Helman",
+"party_id": "ON"
+},
+{
+"district_id": "evelyn",
+"candidate_name": "Andrew Henley",
+"party_id": "GRN"
+},
+{
+"district_id": "nepean",
+"candidate_name": "Darren Hercus",
+"party_id": "ON"
+},
+{
+"district_id": "rowville",
+"candidate_name": "Lars Hiemstra",
+"party_id": "VS"
+},
+{
+"district_id": "point-cook",
+"candidate_name": "Mathew Hilakari",
+"party_id": "ALP"
+},
+{
+"district_id": "morwell",
+"candidate_name": "Rochelle Hine",
+"party_id": "GRN"
+},
+{
+"district_id": "cranbourne",
+"candidate_name": "Andrew Hirst",
+"party_id": "ON"
+},
+{
+"district_id": "williamstown",
+"candidate_name": "Ben Hocking",
+"party_id": "GRN"
+},
+{
+"district_id": "shepparton",
+"candidate_name": "Karen Hocking",
+"party_id": "VS"
+},
+{
+"district_id": "polwarth",
+"candidate_name": "Jesse Holden",
+"party_id": "GRN"
+},
+{
+"district_id": "prahran",
+"candidate_name": "Meghan Hopper",
+"party_id": "ALP"
+},
+{
+"district_id": "werribee",
+"candidate_name": "Paul Hopper",
+"party_id": "TWP"
+},
+{
+"district_id": "williamstown",
+"candidate_name": "Melissa Horne",
+"party_id": "ALP"
+},
+{
+"district_id": "murray-plains",
+"candidate_name": "Brett Hosking",
+"party_id": "NAT"
+},
+{
+"district_id": "mordialloc",
+"candidate_name": "Mahee Hossain",
+"party_id": "VS"
+},
+{
+"district_id": "box-hill",
+"candidate_name": "Sally Houguet",
+"party_id": "LIB"
+},
+{
+"district_id": "oakleigh",
+"candidate_name": "Hsiang-Han Hsieh",
+"party_id": "GRN"
+},
+{
+"district_id": "south-west-coast",
+"candidate_name": "Richard Hughes",
+"party_id": "ON"
+},
+{
+"district_id": "polwarth",
+"candidate_name": "Hutch Hussein",
+"party_id": "ALP"
+},
+{
+"district_id": "bendigo-west",
+"candidate_name": "David Hutchings",
+"party_id": "NAT"
+},
+{
+"district_id": "ivanhoe",
+"candidate_name": "Wayne Hutchinson",
+"party_id": "ON"
+},
+{
+"district_id": "st-albans",
+"candidate_name": "Bao Huynh",
+"party_id": "GRN"
+},
+{
+"district_id": "hawthorn",
+"candidate_name": "Shima Ibuki",
+"party_id": "IND"
+},
+{
+"district_id": "sydenham",
+"candidate_name": "Maggie Jane",
+"party_id": "GRN"
+},
+{
+"district_id": "bass",
+"candidate_name": "Chris Jobe",
+"party_id": "VS"
+},
+{
+"district_id": "yan-yean",
+"candidate_name": "Jeremy Johnson",
+"party_id": "ON"
+},
+{
+"district_id": "melbourne",
+"candidate_name": "Naomi Jones",
+"party_id": "AJP"
+},
+{
+"district_id": "ashwood",
+"candidate_name": "Hitendra Joshi",
+"party_id": "IND"
+},
+{
+"district_id": "oakleigh",
+"candidate_name": "Martin Jung",
+"party_id": "LIB"
+},
+{
+"district_id": "kororoit",
+"candidate_name": "Vasundhara Kandpal",
+"party_id": "AJP"
+},
+{
+"district_id": "yan-yean",
+"candidate_name": "Lauren Kathage",
+"party_id": "ALP"
+},
+{
+"district_id": "melton",
+"candidate_name": "Matthew Katselis",
+"party_id": "ON"
+},
+{
+"district_id": "malvern",
+"candidate_name": "Georgia Katsikis",
+"party_id": "GRN"
+},
+{
+"district_id": "lowan",
+"candidate_name": "Emma Kealy",
+"party_id": "NAT"
+},
+{
+"district_id": "essendon",
+"candidate_name": "Michal Kedem",
+"party_id": "VS"
+},
+{
+"district_id": "broadmeadows",
+"candidate_name": "Ethan Keirs",
+"party_id": "ON"
+},
+{
+"district_id": "melton",
+"candidate_name": "Daire Kelly",
+"party_id": "VS"
+},
+{
+"district_id": "euroa",
+"candidate_name": "Karina Kelly",
+"party_id": "AJP"
+},
+{
+"district_id": "macedon",
+"candidate_name": "Kate Kendall",
+"party_id": "LIB"
+},
+{
+"district_id": "bayswater",
+"candidate_name": "Jess Kennedy",
+"party_id": "GRN"
+},
+{
+"district_id": "ivanhoe",
+"candidate_name": "Michelle Kennedy",
+"party_id": "IND"
+},
+{
+"district_id": "bellarine",
+"candidate_name": "Ronan Keogh",
+"party_id": "VS"
+},
+{
+"district_id": "sydenham",
+"candidate_name": "Maria Kerr",
+"party_id": "IND"
+},
+{
+"district_id": "berwick",
+"candidate_name": "Rana Khan",
+"party_id": "ALP"
+},
+{
+"district_id": "sydenham",
+"candidate_name": "Shania Khan",
+"party_id": "VS"
+},
+{
+"district_id": "carrum",
+"candidate_name": "Sonya Kilkenny",
+"party_id": "ALP"
+},
+{
+"district_id": "evelyn",
+"candidate_name": "Daniel Killey",
+"party_id": "ON"
+},
+{
+"district_id": "albert-park",
+"candidate_name": "Adrian King",
+"party_id": "IND"
+},
+{
+"district_id": "berwick",
+"candidate_name": "Ethelyn King",
+"party_id": "LDP"
+},
+{
+"district_id": "bayswater",
+"candidate_name": "David Kitchen",
+"party_id": "LIB"
+},
+{
+"district_id": "narre-warren-south",
+"candidate_name": "Stefan Koomen",
+"party_id": "ALP"
+},
+{
+"district_id": "macedon",
+"candidate_name": "Natalie Korinfsky",
+"party_id": "AJP"
+},
+{
+"district_id": "point-cook",
+"candidate_name": "Ponraj Krishna Pandi",
+"party_id": "GRN"
+},
+{
+"district_id": "bentleigh",
+"candidate_name": "Liam Kruger",
+"party_id": "VS"
+},
+{
+"district_id": "werribee",
+"candidate_name": "Tushar Kumar",
+"party_id": "GRN"
+},
+{
+"district_id": "point-cook",
+"candidate_name": "Taylor Laine",
+"party_id": "VS"
+},
+{
+"district_id": "kew",
+"candidate_name": "David Laird",
+"party_id": "ON"
+},
+{
+"district_id": "bundoora",
+"candidate_name": "Nina Laitala",
+"party_id": "GRN"
+},
+{
+"district_id": "preston",
+"candidate_name": "Nathan Lambert",
+"party_id": "ALP"
+},
+{
+"district_id": "mill-park",
+"candidate_name": "Jesse Lambourn",
+"party_id": "VS"
+},
+{
+"district_id": "narracan",
+"candidate_name": "Jannette Langley",
+"party_id": "ALP"
+},
+{
+"district_id": "northcote",
+"candidate_name": "Kath Larkin",
+"party_id": "VS"
+},
+{
+"district_id": "niddrie",
+"candidate_name": "Brendan Laws",
+"party_id": "VS"
+},
+{
+"district_id": "essendon",
+"candidate_name": "Tommy Le Deux",
+"party_id": "LIB"
+},
+{
+"district_id": "melton",
+"candidate_name": "Hayden Legro",
+"party_id": "TWP"
+},
+{
+"district_id": "malvern",
+"candidate_name": "Gavin Leonard",
+"party_id": "VS"
+},
+{
+"district_id": "bendigo-east",
+"candidate_name": "Andrew Lethlean",
+"party_id": "NAT"
+},
+{
+"district_id": "melton",
+"candidate_name": "Veronika Levchenkova",
+"party_id": "GRN"
+},
+{
+"district_id": "mill-park",
+"candidate_name": "Eve Levens",
+"party_id": "AJP"
+},
+{
+"district_id": "bulleen",
+"candidate_name": "Tomas Lightbody",
+"party_id": "GRN"
+},
+{
+"district_id": "kew",
+"candidate_name": "Samantha Lincolne",
+"party_id": "VS"
+},
+{
+"district_id": "williamstown",
+"candidate_name": "Paul Lindemann",
+"party_id": "LIB"
+},
+{
+"district_id": "albert-park",
+"candidate_name": "Tammy Lindrum",
+"party_id": "ON"
+},
+{
+"district_id": "werribee",
+"candidate_name": "John Lister",
+"party_id": "ALP"
+},
+{
+"district_id": "eildon",
+"candidate_name": "Dylan Little",
+"party_id": "VS"
+},
+{
+"district_id": "bentleigh",
+"candidate_name": "Herbert Lonsing",
+"party_id": "ON"
+},
+{
+"district_id": "footscray",
+"candidate_name": "Alexander Lopez",
+"party_id": "ON"
+},
+{
+"district_id": "ivanhoe",
+"candidate_name": "Oscar Lopez",
+"party_id": "LIB"
+},
+{
+"district_id": "williamstown",
+"candidate_name": "Catherine Loughnan",
+"party_id": "ON"
+},
+{
+"district_id": "pakenham",
+"candidate_name": "Mary-Kate Louis",
+"party_id": "IND"
+},
+{
+"district_id": "narracan",
+"candidate_name": "Ben Lucas",
+"party_id": "ON"
+},
+{
+"district_id": "morwell",
+"candidate_name": "Tracie Lund",
+"party_id": "ALP"
+},
+{
+"district_id": "euroa",
+"candidate_name": "Zoe Lyle",
+"party_id": "VS"
+},
+{
+"district_id": "mornington",
+"candidate_name": "Kerry Macdonald",
+"party_id": "ALP"
+},
+{
+"district_id": "mornington",
+"candidate_name": "Adrian Maher",
+"party_id": "IND"
+},
+{
+"district_id": "polwarth",
+"candidate_name": "Anna Malcolm",
+"party_id": "ON"
+},
+{
+"district_id": "monbulk",
+"candidate_name": "Craig Manners",
+"party_id": "FFP"
+},
+{
+"district_id": "ovens-valley",
+"candidate_name": "Steve Manning",
+"party_id": "IND"
+},
+{
+"district_id": "laverton",
+"candidate_name": "Shohre Mansouri",
+"party_id": "AJP"
+},
+{
+"district_id": "eltham",
+"candidate_name": "Steven Marasea",
+"party_id": "LDP"
+},
+{
+"district_id": "bellarine",
+"candidate_name": "Alison Marchant",
+"party_id": "ALP"
+},
+{
+"district_id": "footscray",
+"candidate_name": "Jess Marsh",
+"party_id": "IND"
+},
+{
+"district_id": "nepean",
+"candidate_name": "Anthony Marsh",
+"party_id": "LIB"
+},
+{
+"district_id": "benambra",
+"candidate_name": "Steve Martin",
+"party_id": "LIB"
+},
+{
+"district_id": "williamstown",
+"candidate_name": "Oskar Martin",
+"party_id": "VS"
+},
+{
+"district_id": "rowville",
+"candidate_name": "Dave Massey",
+"party_id": "GRN"
+},
+{
+"district_id": "carrum",
+"candidate_name": "Joshua Mathews",
+"party_id": "ON"
+},
+{
+"district_id": "broadmeadows",
+"candidate_name": "Kathleen Matthews-Ward",
+"party_id": "ALP"
+},
+{
+"district_id": "melbourne",
+"candidate_name": "Rob McCathie",
+"party_id": "LDP"
+},
+{
+"district_id": "eureka",
+"candidate_name": "Sam McColl",
+"party_id": "GRN"
+},
+{
+"district_id": "narre-warren-south",
+"candidate_name": "Bailey McCracken",
+"party_id": "VS"
+},
+{
+"district_id": "narre-warren-north",
+"candidate_name": "Lachlan McCracken",
+"party_id": "VS"
+},
+{
+"district_id": "ovens-valley",
+"candidate_name": "Tim McCurdy",
+"party_id": "NAT"
+},
+{
+"district_id": "kororoit",
+"candidate_name": "Joyce McDonald",
+"party_id": "GRN"
+},
+{
+"district_id": "hawthorn",
+"candidate_name": "Tess McEnearney",
+"party_id": "VS"
+},
+{
+"district_id": "gippsland-south",
+"candidate_name": "Lachie McGennisken",
+"party_id": "VS"
+},
+{
+"district_id": "greenvale",
+"candidate_name": "Declan McGinness",
+"party_id": "GRN"
+},
+{
+"district_id": "ringwood",
+"candidate_name": "Nick McGowan",
+"party_id": "LIB"
+},
+{
+"district_id": "benambra",
+"candidate_name": "Lachie McKeeman",
+"party_id": "IND"
+},
+{
+"district_id": "richmond",
+"candidate_name": "Sarah McKenzie",
+"party_id": "ALP"
+},
+{
+"district_id": "eildon",
+"candidate_name": "Cindy McLeish",
+"party_id": "LIB"
+},
+{
+"district_id": "dandenong",
+"candidate_name": "Jack McMahon",
+"party_id": "VS"
+},
+{
+"district_id": "bellarine",
+"candidate_name": "Ross McRae",
+"party_id": "ON"
+},
+{
+"district_id": "macedon",
+"candidate_name": "Marley McRae McLeod",
+"party_id": "GRN"
+},
+{
+"district_id": "bentleigh",
+"candidate_name": "Karli McRostie",
+"party_id": "GRN"
+},
+{
+"district_id": "wendouree",
+"candidate_name": "Chris Meagher",
+"party_id": "VS"
+},
+{
+"district_id": "kororoit",
+"candidate_name": "Seva Melnikov",
+"party_id": "ON"
+},
+{
+"district_id": "cranbourne",
+"candidate_name": "Annalise Mercer",
+"party_id": "GRN"
+},
+{
+"district_id": "hastings",
+"candidate_name": "Paul Mercurio",
+"party_id": "ALP"
+},
+{
+"district_id": "clarinda",
+"candidate_name": "Kit Message",
+"party_id": "VS"
+},
+{
+"district_id": "richmond",
+"candidate_name": "David Meyer",
+"party_id": "IND"
+},
+{
+"district_id": "kalkallo",
+"candidate_name": "Courtney Millett",
+"party_id": "VS"
+},
+{
+"district_id": "ringwood",
+"candidate_name": "Amy Mills",
+"party_id": "GRN"
+},
+{
+"district_id": "ivanhoe",
+"candidate_name": "Ben Milne",
+"party_id": "VS"
+},
+{
+"district_id": "ashwood",
+"candidate_name": "Steven Mitchell",
+"party_id": "ON"
+},
+{
+"district_id": "yan-yean",
+"candidate_name": "Gufran Mohammed",
+"party_id": "GRN"
+},
+{
+"district_id": "carrum",
+"candidate_name": "Carolyn Moore",
+"party_id": "AJP"
+},
+{
+"district_id": "greenvale",
+"candidate_name": "Chris Moore",
+"party_id": "ON"
+},
+{
+"district_id": "lowan",
+"candidate_name": "Jeff Moran",
+"party_id": "GRN"
+},
+{
+"district_id": "bendigo-west",
+"candidate_name": "Ellen Morgan",
+"party_id": "ON"
+},
+{
+"district_id": "eureka",
+"candidate_name": "Wendy Morrison",
+"party_id": "AJP"
+},
+{
+"district_id": "sydenham",
+"candidate_name": "Nathalie Moussi",
+"party_id": "LIB"
+},
+{
+"district_id": "eureka",
+"candidate_name": "Emma Muir",
+"party_id": "LIB"
+},
+{
+"district_id": "brighton",
+"candidate_name": "Bridget Mullahy",
+"party_id": "ALP"
+},
+{
+"district_id": "glen-waverley",
+"candidate_name": "John Mullahy",
+"party_id": "ALP"
+},
+{
+"district_id": "gippsland-east",
+"candidate_name": "Ash Munro",
+"party_id": "GRN"
+},
+{
+"district_id": "werribee",
+"candidate_name": "Sue Munro",
+"party_id": "VS"
+},
+{
+"district_id": "warrandyte",
+"candidate_name": "Vanessa Muradian",
+"party_id": "GRN"
+},
+{
+"district_id": "ovens-valley",
+"candidate_name": "Bronwyn Murphy",
+"party_id": "VS"
+},
+{
+"district_id": "morwell",
+"candidate_name": "Casey Murphy",
+"party_id": "ON"
+},
+{
+"district_id": "bundoora",
+"candidate_name": "Melissa Murphy-Webster",
+"party_id": "IND"
+},
+{
+"district_id": "narre-warren-south",
+"candidate_name": "Jill Nambu",
+"party_id": "GRN"
+},
+{
+"district_id": "broadmeadows",
+"candidate_name": "Maryam Nasim",
+"party_id": "GRN"
+},
+{
+"district_id": "narre-warren-north",
+"candidate_name": "Shemane Nathanielsz",
+"party_id": "LIB"
+},
+{
+"district_id": "mildura",
+"candidate_name": "Renee Nayef",
+"party_id": "VS"
+},
+{
+"district_id": "mill-park",
+"candidate_name": "Elizabeth Nealy",
+"party_id": "ALP"
+},
+{
+"district_id": "south-barwon",
+"candidate_name": "Ron Nelson",
+"party_id": "IND"
+},
+{
+"district_id": "brighton",
+"candidate_name": "James Newbury",
+"party_id": "LIB"
+},
+{
+"district_id": "laverton",
+"candidate_name": "Lucy Nguyen",
+"party_id": "GRN"
+},
+{
+"district_id": "niddrie",
+"candidate_name": "Lana Nguyen",
+"party_id": "GRN"
+},
+{
+"district_id": "st-albans",
+"candidate_name": "Leanna Nguyen",
+"party_id": "VS"
+},
+{
+"district_id": "footscray",
+"candidate_name": "Minh Quan Nguyen",
+"party_id": "TWP"
+},
+{
+"district_id": "bundoora",
+"candidate_name": "Chloe Nicolosi",
+"party_id": "AJP"
+},
+{
+"district_id": "bendigo-east",
+"candidate_name": "Denali Norsen",
+"party_id": "VS"
+},
+{
+"district_id": "laverton",
+"candidate_name": "Ghada Noune",
+"party_id": "LIB"
+},
+{
+"district_id": "gippsland-south",
+"candidate_name": "Danny O'Brien",
+"party_id": "NAT"
+},
+{
+"district_id": "ringwood",
+"candidate_name": "John O'Connor",
+"party_id": "ON"
+},
+{
+"district_id": "mordialloc",
+"candidate_name": "Paul O'Halloran",
+"party_id": "LIB"
+},
+{
+"district_id": "albert-park",
+"candidate_name": "Daniel O'Neill",
+"party_id": "AJP"
+},
+{
+"district_id": "yan-yean",
+"candidate_name": "Sinan Okatan",
+"party_id": "AJP"
+},
+{
+"district_id": "greenvale",
+"candidate_name": "Jim Overend",
+"party_id": "LIB"
+},
+{
+"district_id": "clarinda",
+"candidate_name": "John Paganis",
+"party_id": "LIB"
+},
+{
+"district_id": "narracan",
+"candidate_name": "Moss Page",
+"party_id": "VS"
+},
+{
+"district_id": "pascoe-vale",
+"candidate_name": "Angelica Panopoulos",
+"party_id": "GRN"
+},
+{
+"district_id": "laverton",
+"candidate_name": "Rufo Paredes",
+"party_id": "ON"
+},
+{
+"district_id": "macedon",
+"candidate_name": "Damien Parolin",
+"party_id": "ON"
+},
+{
+"district_id": "bundoora",
+"candidate_name": "Chris Parr",
+"party_id": "LIB"
+},
+{
+"district_id": "benambra",
+"candidate_name": "Graham Parton",
+"party_id": "GRN"
+},
+{
+"district_id": "lowan",
+"candidate_name": "Andrew Partridge",
+"party_id": "ON"
+},
+{
+"district_id": "werribee",
+"candidate_name": "Paul Pateras",
+"party_id": "ON"
+},
+{
+"district_id": "warrandyte",
+"candidate_name": "Rebecca Paterson",
+"party_id": "ALP"
+},
+{
+"district_id": "niddrie",
+"candidate_name": "Brett Patrikeos",
+"party_id": "TWP"
+},
+{
+"district_id": "lowan",
+"candidate_name": "Sue Pavlovich",
+"party_id": "ALP"
+},
+{
+"district_id": "carrum",
+"candidate_name": "Zoe Pegrum",
+"party_id": "GRN"
+},
+{
+"district_id": "northcote",
+"candidate_name": "Jim Penman",
+"party_id": "LDP"
+},
+{
+"district_id": "benambra",
+"candidate_name": "Evette Pepper",
+"party_id": "FFP"
+},
+{
+"district_id": "footscray",
+"candidate_name": "Elena Pereyra",
+"party_id": "GRN"
+},
+{
+"district_id": "narre-warren-north",
+"candidate_name": "Hayley Perry",
+"party_id": "GRN"
+},
+{
+"district_id": "hawthorn",
+"candidate_name": "John Pesutto",
+"party_id": "LIB"
+},
+{
+"district_id": "narre-warren-south",
+"candidate_name": "Norliah Peterson",
+"party_id": "LIB"
+},
+{
+"district_id": "south-barwon",
+"candidate_name": "Libby Pettit",
+"party_id": "LIB"
+},
+{
+"district_id": "berwick",
+"candidate_name": "Michael Piastrino",
+"party_id": "ON"
+},
+{
+"district_id": "pakenham",
+"candidate_name": "Warren Pickering",
+"party_id": "ON"
+},
+{
+"district_id": "geelong",
+"candidate_name": "Andy Pobjoy",
+"party_id": "LIB"
+},
+{
+"district_id": "bellarine",
+"candidate_name": "Mitch Pope",
+"party_id": "GRN"
+},
+{
+"district_id": "hawthorn",
+"candidate_name": "Paul Pribilovics",
+"party_id": "ON"
+},
+{
+"district_id": "brunswick",
+"candidate_name": "Adam Pulford",
+"party_id": "GRN"
+},
+{
+"district_id": "bentleigh",
+"candidate_name": "Tynan Putt",
+"party_id": "LIB"
+},
+{
+"district_id": "box-hill",
+"candidate_name": "Aaron Qin",
+"party_id": "GRN"
+},
+{
+"district_id": "benambra",
+"candidate_name": "Tim Quilty",
+"party_id": "LDP"
+},
+{
+"district_id": "ripon",
+"candidate_name": "Bernard Quince",
+"party_id": "IND"
+},
+{
+"district_id": "tarneit",
+"candidate_name": "Rifai Raheem",
+"party_id": "GRN"
+},
+{
+"district_id": "tarneit",
+"candidate_name": "Maurita Rahn",
+"party_id": "AJP"
+},
+{
+"district_id": "ashwood",
+"candidate_name": "Tim Randall",
+"party_id": "GRN"
+},
+{
+"district_id": "lara",
+"candidate_name": "Oliver Randall",
+"party_id": "VS"
+},
+{
+"district_id": "sydenham",
+"candidate_name": "Uros Rasic",
+"party_id": "ALP"
+},
+{
+"district_id": "eureka",
+"candidate_name": "Andy Raven",
+"party_id": "VS"
+},
+{
+"district_id": "ripon",
+"candidate_name": "Megan Read",
+"party_id": "LIB"
+},
+{
+"district_id": "mulgrave",
+"candidate_name": "Cody Rebbechi",
+"party_id": "ON"
+},
+{
+"district_id": "thomastown",
+"candidate_name": "Priya Reddy",
+"party_id": "VS"
+},
+{
+"district_id": "point-cook",
+"candidate_name": "Raja Reddy",
+"party_id": "LIB"
+},
+{
+"district_id": "euroa",
+"candidate_name": "Alysia Regan",
+"party_id": "GRN"
+},
+{
+"district_id": "point-cook",
+"candidate_name": "Cameron Reid",
+"party_id": "ON"
+},
+{
+"district_id": "gippsland-east",
+"candidate_name": "Gemma Rendell",
+"party_id": "NAT"
+},
+{
+"district_id": "cranbourne",
+"candidate_name": "Pauline Richards",
+"party_id": "ALP"
+},
+{
+"district_id": "mordialloc",
+"candidate_name": "Tim Richardson",
+"party_id": "ALP"
+},
+{
+"district_id": "eltham",
+"candidate_name": "Maeve Riches",
+"party_id": "VS"
+},
+{
+"district_id": "bendigo-east",
+"candidate_name": "Tim Rickwood",
+"party_id": "ALP"
+},
+{
+"district_id": "richmond",
+"candidate_name": "Harrison Rindfleish",
+"party_id": "ON"
+},
+{
+"district_id": "polwarth",
+"candidate_name": "Richard Riordan",
+"party_id": "LIB"
+},
+{
+"district_id": "nepean",
+"candidate_name": "Kim Robbins",
+"party_id": "IND"
+},
+{
+"district_id": "wendouree",
+"candidate_name": "Stuart Robinson",
+"party_id": "ON"
+},
+{
+"district_id": "rowville",
+"candidate_name": "Scott Robson",
+"party_id": "LDP"
+},
+{
+"district_id": "hawthorn",
+"candidate_name": "Kylie Rocha",
+"party_id": "GRN"
+},
+{
+"district_id": "clarinda",
+"candidate_name": "Liam Roche",
+"party_id": "LDP"
+},
+{
+"district_id": "wendouree",
+"candidate_name": "Gav Ronan",
+"party_id": "LIB"
+},
+{
+"district_id": "south-west-coast",
+"candidate_name": "Silver Rose",
+"party_id": "GRN"
+},
+{
+"district_id": "brunswick",
+"candidate_name": "India Rose",
+"party_id": "AJP"
+},
+{
+"district_id": "ovens-valley",
+"candidate_name": "James Rouel",
+"party_id": "ON"
+},
+{
+"district_id": "sandringham",
+"candidate_name": "Brad Rowswell",
+"party_id": "LIB"
+},
+{
+"district_id": "bulleen",
+"candidate_name": "Greg Rublee",
+"party_id": "IND"
+},
+{
+"district_id": "sandringham",
+"candidate_name": "Anastasia Sagris-Desmond",
+"party_id": "ALP"
+},
+{
+"district_id": "shepparton",
+"candidate_name": "Shane Sali",
+"party_id": "NAT"
+},
+{
+"district_id": "melbourne",
+"candidate_name": "Ellen Sandell",
+"party_id": "GRN"
+},
+{
+"district_id": "preston",
+"candidate_name": "Loki Sangarya",
+"party_id": "GRN"
+},
+{
+"district_id": "murray-plains",
+"candidate_name": "Asyiqin Sanif",
+"party_id": "VS"
+},
+{
+"district_id": "bundoora",
+"candidate_name": "Sagar Sanyal",
+"party_id": "VS"
+},
+{
+"district_id": "evelyn",
+"candidate_name": "James Scanlon",
+"party_id": "VS"
+},
+{
+"district_id": "bass",
+"candidate_name": "Nikole Schellekens",
+"party_id": "ON"
+},
+{
+"district_id": "south-barwon",
+"candidate_name": "Izzy Scherrer",
+"party_id": "GRN"
+},
+{
+"district_id": "hastings",
+"candidate_name": "Frank Schiefler",
+"party_id": "LIB"
+},
+{
+"district_id": "mulgrave",
+"candidate_name": "Paul Schofield",
+"party_id": "GRN"
+},
+{
+"district_id": "gippsland-south",
+"candidate_name": "Phillip Schuhmann",
+"party_id": "IND"
+},
+{
+"district_id": "warrandyte",
+"candidate_name": "Caleb Schwab",
+"party_id": "LDP"
+},
+{
+"district_id": "kew",
+"candidate_name": "Ann Seeley",
+"party_id": "FFP"
+},
+{
+"district_id": "malvern",
+"candidate_name": "David Segal",
+"party_id": "LDP"
+},
+{
+"district_id": "albert-park",
+"candidate_name": "Sonya Semmens",
+"party_id": "GRN"
+},
+{
+"district_id": "macedon",
+"candidate_name": "Michael Seton",
+"party_id": "IND"
+},
+{
+"district_id": "eureka",
+"candidate_name": "Michaela Settle",
+"party_id": "ALP"
+},
+{
+"district_id": "rowville",
+"candidate_name": "Muhammad Shahbaz",
+"party_id": "ALP"
+},
+{
+"district_id": "bendigo-west",
+"candidate_name": "Tayne Shalevski",
+"party_id": "VS"
+},
+{
+"district_id": "pascoe-vale",
+"candidate_name": "Yasemin Shamsili",
+"party_id": "VS"
+},
+{
+"district_id": "bendigo-west",
+"candidate_name": "Liza Shaw",
+"party_id": "GRN"
+},
+{
+"district_id": "carrum",
+"candidate_name": "Jeff Shelley",
+"party_id": "LIB"
+},
+{
+"district_id": "benambra",
+"candidate_name": "Kellie Sheppard",
+"party_id": "ON"
+},
+{
+"district_id": "south-west-coast",
+"candidate_name": "Hera Sheppard",
+"party_id": "VS"
+},
+{
+"district_id": "evelyn",
+"candidate_name": "Analise Sherlock",
+"party_id": "ALP"
+},
+{
+"district_id": "box-hill",
+"candidate_name": "Heena Sinha Cheung",
+"party_id": "IND"
+},
+{
+"district_id": "glen-waverley",
+"candidate_name": "Nicholas Siow",
+"party_id": "VS"
+},
+{
+"district_id": "lara",
+"candidate_name": "Theresa Slater",
+"party_id": "GRN"
+},
+{
+"district_id": "greenvale",
+"candidate_name": "Kirill Smelov",
+"party_id": "VS"
+},
+{
+"district_id": "brighton",
+"candidate_name": "Jessica Smith",
+"party_id": "VS"
+},
+{
+"district_id": "carrum",
+"candidate_name": "Trevor Smith",
+"party_id": "LDP"
+},
+{
+"district_id": "murray-plains",
+"candidate_name": "Garner Smith",
+"party_id": "ON"
+},
+{
+"district_id": "pakenham",
+"candidate_name": "Alessandra Soliven",
+"party_id": "ALP"
+},
+{
+"district_id": "kororoit",
+"candidate_name": "Donna Southern",
+"party_id": "TWP"
+},
+{
+"district_id": "caulfield",
+"candidate_name": "David Southwick",
+"party_id": "LIB"
+},
+{
+"district_id": "kalkallo",
+"candidate_name": "Ros Spence",
+"party_id": "ALP"
+},
+{
+"district_id": "lara",
+"candidate_name": "Stephen Spyros",
+"party_id": "ON"
+},
+{
+"district_id": "frankston",
+"candidate_name": "Paul Stafford",
+"party_id": "ON"
+},
+{
+"district_id": "caulfield",
+"candidate_name": "Mikaela Stafrace",
+"party_id": "ALP"
+},
+{
+"district_id": "bentleigh",
+"candidate_name": "Nick Staikos",
+"party_id": "ALP"
+},
+{
+"district_id": "warrandyte",
+"candidate_name": "John Stanley",
+"party_id": "VS"
+},
+{
+"district_id": "kalkallo",
+"candidate_name": "Troy Steans",
+"party_id": "ON"
+},
+{
+"district_id": "brunswick",
+"candidate_name": "Gabe Steger",
+"party_id": "ALP"
+},
+{
+"district_id": "gippsland-east",
+"candidate_name": "Sonny Stephens",
+"party_id": "ALP"
+},
+{
+"district_id": "sandringham",
+"candidate_name": "Lauren Stevenson",
+"party_id": "VS"
+},
+{
+"district_id": "thomastown",
+"candidate_name": "Belinda Stojcevski",
+"party_id": "LIB"
+},
+{
+"district_id": "st-albans",
+"candidate_name": "Natalie Suleyman",
+"party_id": "ALP"
+},
+{
+"district_id": "kew",
+"candidate_name": "David Sun",
+"party_id": "ALP"
+},
+{
+"district_id": "glen-waverley",
+"candidate_name": "Jacky Sun",
+"party_id": "LIB"
+},
+{
+"district_id": "bulleen",
+"candidate_name": "Dimitrios Tafidis",
+"party_id": "VS"
+},
+{
+"district_id": "euroa",
+"candidate_name": "Moussa Taouk",
+"party_id": "FFP"
+},
+{
+"district_id": "niddrie",
+"candidate_name": "Jason Taverna",
+"party_id": "ON"
+},
+{
+"district_id": "albert-park",
+"candidate_name": "Nina Taylor",
+"party_id": "ALP"
+},
+{
+"district_id": "laverton",
+"candidate_name": "Van Thanh Rudd",
+"party_id": "VS"
+},
+{
+"district_id": "essendon",
+"candidate_name": "Katerine Theodosis",
+"party_id": "ALP"
+},
+{
+"district_id": "mulgrave",
+"candidate_name": "Fotini Theodossopoulou",
+"party_id": "LDP"
+},
+{
+"district_id": "northcote",
+"candidate_name": "Kat Theophanous",
+"party_id": "ALP"
+},
+{
+"district_id": "south-barwon",
+"candidate_name": "Rebecca Thistleton",
+"party_id": "ALP"
+},
+{
+"district_id": "bass",
+"candidate_name": "Sophie Thorn",
+"party_id": "GRN"
+},
+{
+"district_id": "mordialloc",
+"candidate_name": "Nadia Ticehurst",
+"party_id": "ON"
+},
+{
+"district_id": "mornington",
+"candidate_name": "Kai Titcher",
+"party_id": "GRN"
+},
+{
+"district_id": "kalkallo",
+"candidate_name": "Payal Tiwari",
+"party_id": "GRN"
+},
+{
+"district_id": "bendigo-east",
+"candidate_name": "Michael Tolhurst",
+"party_id": "GRN"
+},
+{
+"district_id": "polwarth",
+"candidate_name": "Lula Tolley",
+"party_id": "VS"
+},
+{
+"district_id": "kew",
+"candidate_name": "Sophie Torney",
+"party_id": "IND"
+},
+{
+"district_id": "mulgrave",
+"candidate_name": "Charles Tran",
+"party_id": "LIB"
+},
+{
+"district_id": "cranbourne",
+"candidate_name": "Gino Tripodi",
+"party_id": "LIB"
+},
+{
+"district_id": "mill-park",
+"candidate_name": "Arthur Tsoutsoulis",
+"party_id": "ON"
+},
+{
+"district_id": "melbourne",
+"candidate_name": "Rowan Tuckfield",
+"party_id": "IND"
+},
+{
+"district_id": "broadmeadows",
+"candidate_name": "Rachel Unicomb",
+"party_id": "AJP"
+},
+{
+"district_id": "tarneit",
+"candidate_name": "Venkat Ram Upparlapalle",
+"party_id": "LIB"
+},
+{
+"district_id": "narre-warren-north",
+"candidate_name": "Josh Utoyo",
+"party_id": "LDP"
+},
+{
+"district_id": "evelyn",
+"candidate_name": "Bridget Vallence",
+"party_id": "LIB"
+},
+{
+"district_id": "tarneit",
+"candidate_name": "Leah Van Keulen",
+"party_id": "VS"
+},
+{
+"district_id": "sydenham",
+"candidate_name": "Ashleigh Vandenberg",
+"party_id": "IND"
+},
+{
+"district_id": "geelong",
+"candidate_name": "Bree Vanderpol",
+"party_id": "VS"
+},
+{
+"district_id": "croydon",
+"candidate_name": "David Vanderwolf",
+"party_id": "IND"
+},
+{
+"district_id": "benambra",
+"candidate_name": "Alex Vangalen",
+"party_id": "VS"
+},
+{
+"district_id": "shepparton",
+"candidate_name": "Grace Verney",
+"party_id": "GRN"
+},
+{
+"district_id": "mordialloc",
+"candidate_name": "Rachel Versteegen",
+"party_id": "LDP"
+},
+{
+"district_id": "tarneit",
+"candidate_name": "Walter Villagonzalo",
+"party_id": "ON"
+},
+{
+"district_id": "prahran",
+"candidate_name": "Shaun Virsu",
+"party_id": "ON"
+},
+{
+"district_id": "st-albans",
+"candidate_name": "Luan Walker",
+"party_id": "TWP"
+},
+{
+"district_id": "greenvale",
+"candidate_name": "Iwan Walters",
+"party_id": "ALP"
+},
+{
+"district_id": "eltham",
+"candidate_name": "Vicki Ward",
+"party_id": "ALP"
+},
+{
+"district_id": "eildon",
+"candidate_name": "Tom Ward",
+"party_id": "IND"
+},
+{
+"district_id": "narre-warren-south",
+"candidate_name": "Scott Watson",
+"party_id": "IND"
+},
+{
+"district_id": "rowville",
+"candidate_name": "Bradley Watt",
+"party_id": "ON"
+},
+{
+"district_id": "eltham",
+"candidate_name": "Jessie Weatherley",
+"party_id": "ON"
+},
+{
+"district_id": "narracan",
+"candidate_name": "Alyssa Weaver",
+"party_id": "GRN"
+},
+{
+"district_id": "warrandyte",
+"candidate_name": "Nicole Werner",
+"party_id": "LIB"
+},
+{
+"district_id": "melton",
+"candidate_name": "Marlene West",
+"party_id": "FFP"
+},
+{
+"district_id": "prahran",
+"candidate_name": "Rachel Westaway",
+"party_id": "LIB"
+},
+{
+"district_id": "bundoora",
+"candidate_name": "Bruce Whalley",
+"party_id": "ON"
+},
+{
+"district_id": "glen-waverley",
+"candidate_name": "Toyo White",
+"party_id": "GRN"
+},
+{
+"district_id": "clarinda",
+"candidate_name": "Caroline White",
+"party_id": "IND"
+},
+{
+"district_id": "bellarine",
+"candidate_name": "Callum Whitehead",
+"party_id": "LIB"
+},
+{
+"district_id": "tarneit",
+"candidate_name": "Dylan Wight",
+"party_id": "ALP"
+},
+{
+"district_id": "gippsland-south",
+"candidate_name": "Bianca Wilke",
+"party_id": "ON"
+},
+{
+"district_id": "nepean",
+"candidate_name": "Seth Willcocks",
+"party_id": "VS"
+},
+{
+"district_id": "essendon",
+"candidate_name": "James Williams",
+"party_id": "GRN"
+},
+{
+"district_id": "bellarine",
+"candidate_name": "Dom Williams",
+"party_id": "SALL"
+},
+{
+"district_id": "rowville",
+"candidate_name": "Max Williams",
+"party_id": "LIB"
+},
+{
+"district_id": "dandenong",
+"candidate_name": "Gabrielle Williams",
+"party_id": "ALP"
+},
+{
+"district_id": "hastings",
+"candidate_name": "Isaac Willoughby",
+"party_id": "GRN"
+},
+{
+"district_id": "macedon",
+"candidate_name": "Catherine Wilson",
+"party_id": "VS"
+},
+{
+"district_id": "narre-warren-north",
+"candidate_name": "Belinda Wilson",
+"party_id": "ALP"
+},
+{
+"district_id": "kew",
+"candidate_name": "Jess Wilson",
+"party_id": "LIB"
+},
+{
+"district_id": "croydon",
+"candidate_name": "Toby Wooldridge",
+"party_id": "LIB"
+},
+{
+"district_id": "monbulk",
+"candidate_name": "Alyssa Wormald",
+"party_id": "AJP"
+},
+{
+"district_id": "dandenong",
+"candidate_name": "Glenda Wright",
+"party_id": "ON"
+},
+{
+"district_id": "bendigo-east",
+"candidate_name": "Liz Wright",
+"party_id": "IND"
+},
+{
+"district_id": "pakenham",
+"candidate_name": "Nasser Yawari",
+"party_id": "GRN"
+},
+{
+"district_id": "essendon",
+"candidate_name": "Oscar Yildiz",
+"party_id": "IND"
+},
+{
+"district_id": "brunswick",
+"candidate_name": "Mel Yuan",
+"party_id": "IND"
+},
+{
+"district_id": "cranbourne",
+"candidate_name": "Reem Yunis",
+"party_id": "VS"
+},
+{
+"district_id": "mill-park",
+"candidate_name": "Binoy Zacharias",
+"party_id": "GRN"
+},
+{
+"district_id": "malvern",
+"candidate_name": "Christina Zigouras",
+"party_id": "IND"
+},
+{
+"district_id": "ashwood",
+"candidate_name": "Theo Zographos",
+"party_id": "LIB"
+},
+{
+"district_id": "richmond",
+"candidate_name": "Gabrielle de Vietri",
+"party_id": "GRN"
+},
+{
+"district_id": "melbourne",
+"candidate_name": "Jordan van den Lamb",
+"party_id": "VS"
+},
+{
+"district_id": "ashwood",
+"candidate_name": "Jacob van der Eynden",
+"party_id": "VS"
+}
+]

@@ -1,0 +1,33 @@
+{
+ "source": [
+  "data/curated/forecast-v1/anchor-2014.csv",
+  "data/curated/forecast-v1/anchor-2018.csv"
+ ],
+ "districts": 88,
+ "parties": {
+  "ALP": {
+   "state_swing": 0.04767084743453831,
+   "seat_deviation_sd": 0.055837653904837234,
+   "regional_mean_sd": 0.025122163596553095,
+   "within_region_sd": 0.050394618763775136
+  },
+  "LNP": {
+   "state_swing": -0.06801777503472628,
+   "seat_deviation_sd": 0.05515670127511703,
+   "regional_mean_sd": 0.016708343230781558,
+   "within_region_sd": 0.05287792618880561
+  },
+  "GRN": {
+   "state_swing": -0.007681570676675145,
+   "seat_deviation_sd": 0.020671056457853745,
+   "regional_mean_sd": 0.008592731489684707,
+   "within_region_sd": 0.01898020802333304
+  },
+  "OTH": {
+   "state_swing": 0.028028498276863073,
+   "seat_deviation_sd": 0.09131872538985396,
+   "regional_mean_sd": 0.038416858172972065,
+   "within_region_sd": 0.08369542105125333
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "source": [
+  "data/curated/forecast-v1/anchor-2002.csv",
+  "data/curated/forecast-v1/anchor-2006.csv",
+  "data/curated/forecast-v1/anchor-2006.csv",
+  "data/curated/forecast-v1/anchor-2010.csv",
+  "data/curated/forecast-v1/anchor-2010.csv",
+  "data/curated/forecast-v1/anchor-2014.csv",
+  "data/curated/forecast-v1/anchor-2014.csv",
+  "data/curated/forecast-v1/anchor-2018.csv"
+ ],
+ "pairs": [
+  "2002-2006",
+  "2006-2010",
+  "2010-2014",
+  "2014-2018"
+ ],
+ "method": "root mean of per-pair variances",
+ "parties": {
+  "ALP": {
+   "seat_deviation_sd": 0.0409633228190401,
+   "regional_mean_sd": 0.01872359820362817,
+   "within_region_sd": 0.03698230614688133
+  },
+  "LNP": {
+   "seat_deviation_sd": 0.048976560036742604,
+   "regional_mean_sd": 0.021282532681958434,
+   "within_region_sd": 0.04520989921566644
+  },
+  "GRN": {
+   "seat_deviation_sd": 0.02351644530143838,
+   "regional_mean_sd": 0.01221410545177971,
+   "within_region_sd": 0.021208420217966126
+  },
+  "OTH": {
+   "seat_deviation_sd": 0.06543211384927096,
+   "regional_mean_sd": 0.025568774511046773,
+   "within_region_sd": 0.06104350365786219
+  }
+ }
+}

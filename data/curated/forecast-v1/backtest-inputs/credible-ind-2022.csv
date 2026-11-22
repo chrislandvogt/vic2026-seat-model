@@ -1,0 +1,5 @@
+district_id,candidate,log_ratio_own,cred_loo,cred_all,cred_half,cred_zero
+kew,"TORNEY, Sophie",1.1159,1.2919,1.2479,0.646,0.0
+hawthorn,"LOWE, Melissa",2.0153,0.9921,1.2479,0.496,0.0
+mornington,"LARDNER, Kate",1.4735,1.1727,1.2479,0.5864,0.0
+caulfield,"KALTMANN, Nomi",0.3868,1.5349,1.2479,0.7674,0.0

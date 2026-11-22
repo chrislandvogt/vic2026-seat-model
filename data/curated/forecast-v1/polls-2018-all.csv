@@ -1,0 +1,32 @@
+fieldwork_start,fieldwork_end,fieldwork_raw,pollster,client,sample,alp,lnp,grn,onp,ind,oth,tpp_alp,tpp_lnp,tpp_onp,source
+2018-11-23,2018-11-23,23 November 2018,Roy Morgan,,,39,33,13,,,15,54,46,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2018-11-23,2018-11-23,23 November 2018,Newspoll,,,41,40,11,,,8,53.5,46.5,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2018-11-21,2018-11-21,21 November 2018,uComms/ReachTEL,,,38.7,35.9,10.4,,,9.9,54,46,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2018-11-21,2018-11-21,21 November 2018,YouGov,,,40,40,11,,,9,53,47,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2018-11-14,2018-11-14,14 November 2018,ReachTEL,,,40.4,36.8,10.3,,,12.5,56,44,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2018-10-24,2018-10-28,24–28 Oct 2018,Newspoll,,,41,39,11,,,9,54,46,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2018-10-22,2018-10-24,22–24 Oct 2018,YouGov,,,40,39,12,,,9,53,47,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2018-10-03,2018-10-03,3 October 2018,ReachTEL,,,35.9,38.8,10.9,,,14.4,52,48,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2018-09-11,2018-09-13,11–13 Sep 2018,YouGov,,,42,40,,,,,53,47,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2018-08-09,2018-08-09,9 August 2018,YouGov,,,38,42,10,,,10,51,49,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2018-07-05,2018-07-05,5 July 2018,ReachTEL,,,35.4,39.4,10.5,,,14.7,51,49,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2018-04-13,2018-04-16,13–16 Apr 2018,Newspoll,,,38,41,11,,,10,51,49,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2017-12-06,2017-12-06,6 December 2017,Galaxy,,,36,41,10,,,12,50,50,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2017-06-17,2017-06-18,17–18 Jun 2017,Galaxy,,,33,44,8,,,14,47,53,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2017-03-07,2017-03-07,7 March 2017,ReachTEL,,,30.3,39.8,8,,,15.7,46,54,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2017-02-15,2017-02-16,15–16 Feb 2017,Galaxy,,,37,41,10,,,12,51,49,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2016-09-01,2016-09-01,1 September 2016,ReachTEL,,,34.6,40.1,10.7,,,,51,49,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2015-10-16,2015-10-16,16 October 2015,Roy Morgan,,,40,39,14.5,,,6.5,55.5,44.5,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2015-08-28,2015-08-31,28–31 Aug 2015,Roy Morgan,,,39,35.5,16.5,,,9,57,43,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2015-07-31,2015-08-03,31 Jul-3 Aug 2015,Roy Morgan,,,41,38,14,,,7,56.5,43.5,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2015-05-27,2015-05-27,27 May 2015,Roy Morgan,,,43.5,38.5,12.5,,,5.5,56.5,43.5,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2015-04-10,2015-04-13,10–13 Apr 2015,Roy Morgan,,,41,40,11.5,,,7.5,54,46,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2015-03-13,2015-03-15,13–15 Mar 2015,Roy Morgan,,,43,38,11.5,,,7.5,56,44,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2015-02-14,2015-02-16,14–16 Feb 2015,Roy Morgan,,,41.5,39.5,11.5,,,7.5,54.5,45.5,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2015-01-16,2015-01-18,16–18 Jan 2015,Roy Morgan,,,45,35,11.5,,,8.5,59,41,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2014-11-25,2014-11-28,25–28 Nov 2014,Ipsos{{cite news|last1=Gordon|first1=Josh|title=Victorian election 2014: result likely to come down to the wire|url=http://www.theage.com.au/victoria/victoria-state-election-2014/victorian-election-2014-result-likely-to-come-down-to-the-wire-20141128-11wb6b.html|access-date=28 November 2014|work=The Age|date=28 November 2014|location=Melbourne}},,,35,42,15,,,8,52,48,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2014-11-24,2014-11-27,24–27 Nov 2014,Newspoll,,,39,40.0,12,,,9,52,48,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2014-11-27,2014-11-27,27 November 2014,ReachTEL,,,38.3,39.7,13.5,,,8.5,52,48,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2014-11-26,2014-11-27,26–27 Nov 2014,Roy Morgan,,,36,44,13.5,,,6.5,50,50,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2014-11-25,2014-11-26,25–26 Nov 2014,Galaxy,,,39,40,13,,,8,52,48,,https://en.wikipedia.org/wiki/2018_Victorian_state_election
+2014-11-07,2014-11-24,7–24 Nov 2014,Essential,,,39,40,13,,,8,52,48,,https://en.wikipedia.org/wiki/2018_Victorian_state_election

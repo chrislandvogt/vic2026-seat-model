@@ -1,0 +1,11 @@
+pollster,fieldwork_end,sample,area,alp,lnp,grn,on,other,source
+Roy Morgan,2026-10-29,3610,Melbourne,23.5,28,14,20.5,14,data/raw/fresh-morgan-review-20261102/morgan-state-october30-original-tables.body (page 3)
+Roy Morgan,2026-10-29,3610,Country Victoria,19,33,9.5,26,12.5,data/raw/fresh-morgan-review-20261102/morgan-state-october30-original-tables.body (page 3)
+DemosAU,2026-09-20,1020,Inner Metro,28,32,15,16,9,data/raw/demosau/689cb8711ca7-7501ff79ded13607b36c71fb5bbfb5e6bd28adac4a0ec41316500174e03619f2.pdf (page 10)
+DemosAU,2026-09-20,1020,Outer Metro,23,29,14,23,11,data/raw/demosau/689cb8711ca7-7501ff79ded13607b36c71fb5bbfb5e6bd28adac4a0ec41316500174e03619f2.pdf (page 10)
+DemosAU,2026-09-20,1020,Regional Vic,23,27,13,21,16,data/raw/demosau/689cb8711ca7-7501ff79ded13607b36c71fb5bbfb5e6bd28adac4a0ec41316500174e03619f2.pdf (page 10)
+Roy Morgan,2026-02-16,2462,Melbourne,26.5,22,15,24,12.5,data/raw/wikipedia-vic2026-polling-20261109T234236Z/page.wikitext (Sub-state results)
+Roy Morgan,2026-02-16,2462,Regional/Rural,23.5,21,8.5,34.5,12.5,data/raw/wikipedia-vic2026-polling-20261109T234236Z/page.wikitext (Sub-state results)
+DemosAU,2026-02-10,1274,Inner Melbourne,23,28,23,15,11,data/raw/wikipedia-vic2026-polling-20261109T234236Z/page.wikitext (Sub-state results)
+DemosAU,2026-02-10,1274,Outer Melbourne,24,32,13,21,10,data/raw/wikipedia-vic2026-polling-20261109T234236Z/page.wikitext (Sub-state results)
+DemosAU,2026-02-10,1274,Regional/Rural,21,23,9,30,17,data/raw/wikipedia-vic2026-polling-20261109T234236Z/page.wikitext (Sub-state results)

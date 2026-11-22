@@ -1,0 +1,11 @@
+fieldwork_start,fieldwork_end,fieldwork_raw,pollster,client,sample,alp,lnp,grn,onp,ind,oth,tpp_alp,tpp_lnp,tpp_onp,source
+2006-11-08,2006-11-09,8 – 9 Nov 2006,Newspoll,,,44.0,40.0,8.0,,,8.0,55.0,,,https://en.wikipedia.org/wiki/2006_Victorian_state_election
+2006-09-01,2006-10-31,Sep – Oct 2006,Newspoll,,,43.0,39.0,7.0,,,11.0,54.0,,,https://en.wikipedia.org/wiki/2006_Victorian_state_election
+2006-07-01,2006-08-31,Jul – Aug 2006,Newspoll,,,46.0,40.0,6.0,,,8.0,55.0,,,https://en.wikipedia.org/wiki/2006_Victorian_state_election
+2006-05-01,2006-06-30,May – Jun 2006,Newspoll,,,45.0,36.0,5.0,,,14.0,57.0,,,https://en.wikipedia.org/wiki/2006_Victorian_state_election
+2006-03-01,2006-04-30,Mar – Apr 2006,Newspoll,,,44.0,38.0,7.0,,,11.0,56.0,,,https://en.wikipedia.org/wiki/2006_Victorian_state_election
+2006-01-01,2006-02-28,Jan – Feb 2006,Newspoll,,,44.0,40.0,5.0,,,11.0,56.0,,,https://en.wikipedia.org/wiki/2006_Victorian_state_election
+2005-11-01,2005-12-31,Nov – Dec 2005,Newspoll,,,41.0,40.0,7.0,,,12.0,54.0,,,https://en.wikipedia.org/wiki/2006_Victorian_state_election
+2005-09-01,2005-10-31,Sep – Oct 2005,Newspoll,,,43.0,41.0,6.0,,,11.0,55.0,,,https://en.wikipedia.org/wiki/2006_Victorian_state_election
+2005-07-01,2005-08-31,Jul – Aug 2005,Newspoll,,,42.0,41.0,6.0,,,11.0,54.0,,,https://en.wikipedia.org/wiki/2006_Victorian_state_election
+2005-05-01,2005-06-30,May – Jun 2005,Newspoll,,,44.0,38.0,9.0,,,9.0,56.0,,,https://en.wikipedia.org/wiki/2006_Victorian_state_election

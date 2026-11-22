@@ -1,0 +1,21 @@
+fieldwork_start,fieldwork_end,fieldwork_raw,pollster,client,sample,alp,lnp,grn,onp,ind,oth,tpp_alp,tpp_lnp,tpp_onp,source
+2010-11-23,2010-11-25,23 – 25 Nov 2010,Newspoll,,,33.0,45.0,15.0,,,7.0,48.9,51.1,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2010-11-09,2010-11-11,9 – 11 Nov 2010,Newspoll,,,37.0,44.0,14.0,,,5.0,51.0,49.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2010-09-01,2010-10-31,Sep – Oct 2010,Newspoll,,,35.0,40.0,19.0,,,6.0,52.0,48.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2010-07-01,2010-08-31,Jul – Aug 2010,Newspoll,,,38.0,36.0,17.0,,,9.0,55.0,45.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2010-05-01,2010-06-30,May – Jun 2010,Newspoll,,,34.0,40.0,18.0,,,8.0,51.0,49.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2010-03-01,2010-04-30,Mar – Apr 2010,Newspoll,,,37.0,41.0,14.0,,,8.0,52.0,48.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2010-01-01,2010-02-28,Jan – Feb 2010,Newspoll,,,39.0,39.0,14.0,,,8.0,54.0,46.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2009-11-01,2009-12-31,Nov – Dec 2009,Newspoll,,,41.0,35.0,14.0,,,10.0,57.0,43.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2009-09-01,2009-10-31,Sep – Oct 2009,Newspoll,,,43.0,35.0,15.0,,,7.0,57.0,43.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2009-07-01,2009-08-31,Jul – Aug 2009,Newspoll,,,43.0,37.0,12.0,,,8.0,56.0,44.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2009-05-01,2009-06-30,May – Jun 2009,Newspoll,,,42.0,37.0,14.0,,,7.0,56.0,44.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2009-01-01,2009-02-28,Jan – Feb 2009,Newspoll,,,46.0,33.0,15.0,,,6.0,60.0,40.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2008-11-01,2008-12-31,Nov – Dec 2008,Newspoll,,,45.0,37.0,13.0,,,5.0,57.0,43.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2008-09-01,2008-10-31,Sep – Oct 2008,Newspoll,,,37.0,41.0,15.0,,,7.0,51.0,49.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2008-07-01,2008-08-31,Jul – Aug 2008,Newspoll,,,41.0,38.0,12.0,,,9.0,54.0,46.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2008-05-01,2008-06-30,May – Jun 2008,Newspoll,,,41.0,38.0,14.0,,,7.0,55.0,45.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2008-03-01,2008-04-30,Mar – Apr 2008,Newspoll,,,44.0,36.0,12.0,,,8.0,58.0,42.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2008-01-01,2008-02-29,Jan – Feb 2008,Newspoll,,,43.0,37.0,12.0,,,8.0,56.0,44.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2007-11-01,2007-12-31,Nov – Dec 2007,Newspoll,,,51.0,34.0,9.0,,,6.0,60.0,40.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election
+2007-09-01,2007-10-31,Sep – Oct 2007,Newspoll,,,49.0,40.0,6.0,,,5.0,56.0,44.0,,https://en.wikipedia.org/wiki/2010_Victorian_state_election

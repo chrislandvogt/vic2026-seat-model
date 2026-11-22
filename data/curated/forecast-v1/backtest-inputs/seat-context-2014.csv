@@ -1,0 +1,89 @@
+district_id,held_by,region,stands_ALP,stands_LIB,stands_NAT,stands_GRN,stands_ON,retiring_party,sophomore_party,independents,ind_recontest,candidates
+albert-park,ALP,SOUTHERN METROPOLITAN,1,1,0,1,0,,,"ARMSTRONG, Steven; PERKINS, Tex",,7
+altona,ALP,WESTERN METROPOLITAN,1,1,0,1,0,,ALP,"NAIN, Brijender",,6
+bass,LNP,EASTERN VICTORIA,1,1,0,1,0,LNP,,"LE SERVE, Clare",,7
+bayswater,LNP,NORTH-EASTERN METROPOLITAN,1,1,0,1,0,,,"CARBONARI, John",,7
+bellarine,LNP,WESTERN VICTORIA,1,1,0,1,0,,,"KACINSKAS, Gus",,9
+benambra,LNP,NORTHERN VICTORIA,1,1,0,1,0,,,,,4
+bendigo-east,ALP,NORTHERN VICTORIA,1,1,0,1,0,,,,,6
+bendigo-west,ALP,NORTHERN VICTORIA,1,1,0,1,0,,ALP,,,6
+bentleigh,LNP,SOUTHERN METROPOLITAN,1,1,0,1,0,,LNP,"OJHA, Chandra",,8
+box-hill,LNP,NORTH-EASTERN METROPOLITAN,1,1,0,1,0,,,"STOKIE, Geoffrey",,5
+brighton,LNP,SOUTHERN METROPOLITAN,1,1,0,1,0,,,"TOUZEAU, Jane",,4
+broadmeadows,ALP,NORTHERN METROPOLITAN,1,1,0,1,0,,ALP,"RINALDI, John",,6
+brunswick,ALP,NORTHERN METROPOLITAN,1,1,0,1,0,,ALP,"O'CALLAGHAN, Dean",,8
+bulleen,LNP,NORTH-EASTERN METROPOLITAN,1,1,0,1,0,LNP,,,,4
+bundoora,ALP,NORTHERN METROPOLITAN,1,1,0,1,0,,,,,4
+buninyong,ALP,,1,1,1,1,0,,,,,6
+burwood,LNP,SOUTHERN METROPOLITAN,1,1,0,1,0,,LNP,"CAMPBELL, Peter",,4
+carrum,LNP,SOUTH-EASTERN METROPOLITAN,1,1,0,1,0,,LNP,,,5
+caulfield,LNP,SOUTHERN METROPOLITAN,1,1,0,1,0,,LNP,"MYERS, John Barry",,5
+clarinda,ALP,,1,1,0,1,0,,,"MARINIS, James",,5
+cranbourne,ALP,SOUTH-EASTERN METROPOLITAN,1,1,0,1,0,,,"BLAKE, Rosemary",,8
+croydon,LNP,,1,1,0,1,0,,,"MARTIN, Joel",,6
+dandenong,ALP,SOUTH-EASTERN METROPOLITAN,1,1,0,1,0,ALP,,"KEY, Dale Anthony",,6
+eildon,LNP,,1,1,1,1,0,,LNP,"ARGYLE, Bruce; JUDD, Jane M.",,8
+eltham,ALP,NORTH-EASTERN METROPOLITAN,1,1,0,1,0,ALP,,"BYRNE, Chris; EBERT, Ryan",,7
+essendon,ALP,WESTERN METROPOLITAN,1,1,0,1,0,ALP,,"LAWRENCE, Richard",,5
+euroa,LNP,,1,1,1,1,0,LNP,,,,6
+evelyn,LNP,EASTERN VICTORIA,1,1,0,1,0,,,"MCALEER, Anthony; MOBSBY, Lawrence Irwin",,7
+ferntree-gully,LNP,NORTH-EASTERN METROPOLITAN,1,1,0,1,0,,,,,5
+footscray,ALP,WESTERN METROPOLITAN,1,1,0,1,0,,,"CUMMING, Catherine","CUMMING, Catherine",5
+forest-hill,LNP,NORTH-EASTERN METROPOLITAN,1,1,0,1,0,,LNP,,,7
+frankston,LNP,SOUTH-EASTERN METROPOLITAN,1,1,0,1,0,,,"BREEN, Jerome; SHAW, Geoff; SMITH, Reade; TOOTELL, Marianne; TOSCANO, Joseph; VOGT, Mervyn K.",,14
+geelong,ALP,WESTERN VICTORIA,1,1,0,1,0,ALP,,"MANN, Douglas James",,8
+gembrook,LNP,EASTERN VICTORIA,1,1,0,1,0,,LNP,"DEAN, Frank; HEFFERNAN, Damian",,8
+gippsland-east,LNP,EASTERN VICTORIA,1,0,1,1,0,,LNP,"GARDNER, Peter; McDONALD, Leigh; McKENZIE, Peter Warren",,8
+gippsland-south,LNP,EASTERN VICTORIA,1,0,1,1,0,,,"PIPER, Phil",,6
+hastings,LNP,EASTERN VICTORIA,1,1,0,1,0,,,"ANDERSSON, Robert; MADIGAN, Paul",,7
+hawthorn,LNP,SOUTHERN METROPOLITAN,1,1,0,1,0,LNP,,,,3
+ivanhoe,ALP,NORTHERN METROPOLITAN,1,1,0,1,0,,ALP,"LANGDON, Craig; MOHAMED, Abdirizak H.",,7
+kew,LNP,SOUTHERN METROPOLITAN,1,1,0,1,0,LNP,,,,3
+keysborough,ALP,,1,1,0,1,0,,ALP,"CARTY, Michael; VO, Hung",,6
+kororoit,ALP,WESTERN METROPOLITAN,1,1,0,1,0,,,"GIUDICE, Margaret",,5
+lara,ALP,WESTERN VICTORIA,1,1,0,1,0,,,,,5
+lowan,LNP,WESTERN VICTORIA,1,0,1,1,0,LNP,,"RAINSFORD, Katrina",,5
+macedon,ALP,NORTHERN VICTORIA,1,1,0,1,0,ALP,,,,4
+malvern,LNP,SOUTHERN METROPOLITAN,1,1,0,1,0,,,,,3
+melbourne,ALP,NORTHERN METROPOLITAN,1,1,0,1,0,,ALP,,,7
+melton,ALP,WESTERN VICTORIA,1,1,0,1,0,,,"ALJOFAN, Mohamad; BENNETT, Victor; DeLEON, Matt",,9
+mildura,LNP,NORTHERN VICTORIA,1,0,1,1,0,,,"CLUTTERBUCK, Jo; CORY, Mark; CUPPER, Ali",,9
+mill-park,ALP,NORTHERN METROPOLITAN,1,1,0,1,0,,,,,4
+monbulk,LNP,EASTERN VICTORIA,1,1,0,1,0,,,"CROOK, Jordan",,9
+mordialloc,LNP,SOUTH-EASTERN METROPOLITAN,1,1,0,1,0,,LNP,"OXLEY, Georgina; OXLEY, Victoria; POMPEI, Leon; WEST, Rosemary",,11
+mornington,LNP,EASTERN VICTORIA,1,1,0,1,0,,,,,5
+morwell,LNP,EASTERN VICTORIA,1,0,1,1,0,,,"LUND, Tracie; ROSE, Jacqueline",,7
+mount-waverley,LNP,SOUTH-EASTERN METROPOLITAN,1,1,0,1,0,,LNP,,,4
+mulgrave,ALP,SOUTH-EASTERN METROPOLITAN,1,1,0,1,0,,,,,5
+murray-plains,LNP,,1,0,1,1,0,,,"HICKS, Nigel Anthony",,6
+narracan,LNP,EASTERN VICTORIA,1,1,0,1,0,,,,,5
+narre-warren-north,ALP,SOUTH-EASTERN METROPOLITAN,1,1,0,1,0,,,"QURESHI, Wasim",,7
+narre-warren-south,ALP,SOUTH-EASTERN METROPOLITAN,1,1,0,1,0,,,,,5
+nepean,LNP,EASTERN VICTORIA,1,1,0,1,0,,,"STANTON, David J.",,6
+niddrie,ALP,WESTERN METROPOLITAN,1,1,0,1,0,,ALP,"GUNTER, Andrew; SURACE, Andrea; YIANNI, Appollo",,8
+northcote,ALP,NORTHERN METROPOLITAN,1,1,0,1,0,,,"EDWARDS, Bryony",,7
+oakleigh,ALP,SOUTHERN METROPOLITAN,1,1,0,1,0,ALP,,"KIOUPELIS, Parashos; SCOTTO, Anna",,5
+ovens-valley,LNP,,1,0,1,1,0,,LNP,"DYER, Ray",,5
+pascoe-vale,ALP,WESTERN METROPOLITAN,1,1,0,1,0,ALP,,"TIMPANO, Francesco",,6
+polwarth,LNP,WESTERN VICTORIA,1,1,0,1,0,,,,,4
+prahran,LNP,SOUTHERN METROPOLITAN,1,1,0,1,0,,LNP,"GOLDSMITH, Jason Simon; MENADUE, Alan Maxwell; STEFANOPOULOS, Steve",,8
+preston,ALP,NORTHERN METROPOLITAN,1,1,0,1,0,,,"GRECO, Gaetano",,5
+richmond,ALP,NORTHERN METROPOLITAN,1,1,0,1,0,,,"JOLLY, Stephen; KEEL, Tom","JOLLY, Stephen",8
+ringwood,LNP,,1,1,0,1,0,,LNP,"CHALLINGER, Michael",,7
+ripon,LNP,WESTERN VICTORIA,1,1,1,1,0,LNP,,,,9
+rowville,LNP,,1,1,0,1,0,,,,,4
+sandringham,LNP,SOUTHERN METROPOLITAN,1,1,0,1,0,,,"MARTIN, Clarke",,4
+shepparton,LNP,NORTHERN VICTORIA,1,0,1,1,0,LNP,,"SHEED, Suzanna; TEASDALE, Diane",,6
+south-barwon,LNP,WESTERN VICTORIA,1,1,0,1,0,,LNP,,,8
+south-west-coast,LNP,WESTERN VICTORIA,1,1,0,1,0,,,"McCLUSKEY, Michael; SMITH, Linda K.",,6
+st-albans,ALP,,1,1,0,1,0,ALP,,"KLAJN, Irena Teresa",,6
+sunbury,ALP,,1,1,0,1,0,ALP,,"LOPEZ, Billy; MEDCRAFT, Steve Jack",,7
+sydenham,ALP,,1,1,0,1,0,,ALP,,,5
+tarneit,ALP,WESTERN METROPOLITAN,1,1,0,1,0,,,"ALI, Safwat; BAUCH, Joh; LOI, Chin",,10
+thomastown,ALP,NORTHERN METROPOLITAN,1,1,0,1,0,,ALP,"Di PALMA, Thomas",,5
+warrandyte,LNP,NORTH-EASTERN METROPOLITAN,1,1,0,1,0,,,,,5
+wendouree,LNP,,1,1,0,1,0,,ALP,,,7
+werribee,ALP,,1,1,0,1,0,,,,,5
+williamstown,ALP,WESTERN METROPOLITAN,1,1,0,1,0,,,"WEHBE, Khalil",,5
+yan-yean,LNP,NORTHERN METROPOLITAN,1,1,0,1,0,,,,,7
+yuroke,ALP,WESTERN METROPOLITAN,1,1,0,1,0,ALP,,"WILKINS, Mick",,6

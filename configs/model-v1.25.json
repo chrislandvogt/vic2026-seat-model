@@ -1,0 +1,260 @@
+{
+ "election_day": "2026-11-28",
+ "design_effect": 1.5,
+ "default_sample": 1000,
+ "rounding_sd": 0.003,
+ "house_prior_sd": 0.015,
+ "trend_bandwidth_days": 35,
+ "movement_sd_per_30_days": 0.015,
+ "bias_sd": 0.02,
+ "regional_sd": 0.02,
+ "seat_sd": 0.03,
+ "on_pattern_shrink": 1.0,
+ "on_regional_log_sd": 0.1,
+ "on_seat_log_sd": 0.3,
+ "on_floor": 0.03,
+ "ind_retention_log_sd": 0.5,
+ "ind_min_share_2022": 0.08,
+ "new_ind_share": 0.022,
+ "flow_concentration": 60.0,
+ "seat_flow_sd": 0.04,
+ "draws": 10000,
+ "seed": 20261110,
+ "majority": 45,
+ "model_version": "1.25",
+ "on_geography_file": "data/curated/forecast-v1/on-geography-2026.csv",
+ "on_pattern_log_sd_floor": 0.18,
+ "seat_context_file": "data/curated/forecast-v1/seat-context-2026.csv",
+ "sophomore_effect": 0.03,
+ "sophomore_sd": 0.01,
+ "on_flow_lean_slope": 0.46,
+ "swing_scale": "mixed",
+ "mrp_file": "data/curated/forecast-v1/mrp-yougov-2026-by-district.csv",
+ "on_pattern_weights": {
+  "federal": 0.3,
+  "embedding": 0.3,
+  "mrp": 0.4
+ },
+ "on_seat_log_sd_with_mrp": 0.24,
+ "swing_dispersion_file": "data/curated/forecast-v1/swing-dispersion-pooled-2022.json",
+ "poll_error_file": "data/curated/forecast-v1/poll-error-calibration.json",
+ "bias_mean_shrink": 0.0,
+ "bias_sd_floor": 0.015,
+ "bias_sd_new_party": 0.03,
+ "retirement_effect": 0.015,
+ "retirement_sd": 0.01,
+ "embedding_file": "data/curated/embedding_features/northern-metropolitan_district_features.parquet",
+ "on_embedding_weight": 0.5,
+ "on_ridge_lambda": 1.0,
+ "sim_rho": 0.5,
+ "sim_bandwidth": 2.5,
+ "flows_file": "data/curated/forecast-v1/flows-final-pair-empirical.csv",
+ "flow_min_conc": 8.0,
+ "flow_max_conc": 200.0,
+ "departed_ind_to_parties": 0.68,
+ "absent_party_base_file": "data/curated/forecast-v1/anchor-2018.csv",
+ "ballot_top_gain": 0.024,
+ "ballot_top_gain_minor": 0.016,
+ "ballot_base_file": "data/curated/forecast-v1/ballot-top-2022.csv",
+ "ballot_now_file": "data/curated/forecast-v1/ballot-top-2026-20261110.csv",
+ "federal_swing_file": "data/curated/forecast-v1/federal-tpp-relative-swing.csv",
+ "federal_swing_col": "rel_swing_2022_2025_classic",
+ "federal_swing_coef": 0.2,
+ "federal_swing_coef_sd": 0.3,
+ "federal_swing_classic_only": true,
+ "numerical_threads": 1,
+ "fixed_deadline_seconds": 1800,
+ "no_target_outcomes_or_scores": true,
+ "count_revision": "reference-oriented-preference-noise-v1",
+ "coalition_recommends_on_p": 1.0,
+ "lnp_to_alp_vs_on_recommended": 0.35,
+ "lnp_to_alp_vs_on_open": 0.47,
+ "on_poll_error_file": "data/curated/forecast-v1/on-poll-error-history.json",
+ "bias_sd_floor_on": 0.02,
+ "region_split_file": "data/curated/forecast-v1/region-split-polls-2026.csv",
+ "region_split_parties": [
+  "ALP",
+  "LNP",
+  "GRN",
+  "ON"
+ ],
+ "region_split_half_life_days": 90.0,
+ "region_split_definition_sd": 0.03,
+ "lib_alp_over_grn_p": 1.0,
+ "lnp_to_alp_vs_grn_directed": 0.63,
+ "lnp_to_alp_vs_grn_reversed": 0.35,
+ "lnp_to_alp_vs_grn_open": 0.49,
+ "lnp_alp_grn_concentration": 60.0,
+ "lib_open_alp_grn_seats": [
+  "brunswick",
+  "footscray",
+  "williamstown"
+ ],
+ "lib_cards_registered": {
+  "as_of": "13 November",
+  "seats_with_cards": 76,
+  "liberal_contested_seats": 77,
+  "labor_above_greens": 74,
+  "one_nation_above_labor": 72,
+  "one_nation_last": [
+   "greenvale",
+   "preston"
+  ],
+  "no_card_open_ticket": [
+   "brunswick",
+   "footscray"
+  ],
+  "no_card_yet": [],
+  "note": "Registered Liberal cards in 76 of the 77 seats the Liberals contest (Williamstown: candidate dropped, no card). Labor is above the Greens on all 74 cards that print an order; Brunswick and Footscray are registered open tickets. One Nation is above Labor on 72 cards and last on Preston's and Greenvale's (13 November: Greenvale 835/836, One Nation 10th of 10, Labor 5th).",
+  "no_card": [
+   "williamstown"
+  ]
+ },
+ "seat_lnp_alp_vs_on_rate": {
+  "preston": 0.62,
+  "williamstown": 0.47,
+  "greenvale": 0.62
+ },
+ "seat_flow_adjust": {
+  "prahran": [
+   [
+    "ALP",
+    "LNP",
+    "GRN",
+    0.064
+   ],
+   [
+    "ALP",
+    "LNP",
+    "ON",
+    -0.078
+   ]
+  ],
+  "caulfield": [
+   [
+    "ALP",
+    "LNP",
+    "GRN",
+    0.064
+   ],
+   [
+    "ALP",
+    "LNP",
+    "ON",
+    -0.078
+   ]
+  ]
+ },
+ "disendorsed": {
+  "preston": "ON",
+  "williamstown": "LIB"
+ },
+ "disendorsed_share_cut": 0.1,
+ "disendorsed_share_cut_sd": 0.05,
+ "extra_seat_on_observations": [
+  {
+   "districts": [
+    "pakenham"
+   ],
+   "on_share": 0.4,
+   "state_on_at_time": 0.22,
+   "weight": 0.5,
+   "label": "Pakenham (TKW Research/DemosAU for the Herald Sun, 4-8 November, n 484)"
+  }
+ ],
+ "region_split_rural_only_parties": [
+  "ALP"
+ ],
+ "seat_index_file": "data/curated/forecast-v1/seat-index-2026.csv",
+ "seat_factors": {
+  "inner_outer_index": {
+   "mean": 0.0036,
+   "sd": 0.012,
+   "note": "inner-affluent (+) vs outer car-dependent (-). Backtest slopes +1.53 (2018) and -0.77 (2022) pp per sd; federal +2.29 (2019-22), +0.62 (2022-25). Mean: half the YouGov MRP gap to v1.16 (+0.72)."
+  },
+  "mortgage_belt_index": {
+   "mean": -0.0057,
+   "sd": 0.01,
+   "note": "mortgage belt (Kalkallo, Yan Yean, Berwick, Narre Warren South, Cranbourne, Sydenham). Backtest slopes +0.10 (2018), +0.29 (2022); federal -1.70 (2019-22), +1.13 (2022-25). Mean: half the YouGov MRP gap to v1.16 (-1.14; corr -0.32)."
+  }
+ },
+ "seat_factor_classic_only": true,
+ "bias_mean_shrink_on": 0.5,
+ "ind_base_top_only": true,
+ "ind_retention_log_mean": -0.25,
+ "new_ind_log_sd": 0.9,
+ "new_ind_extra_log": 0.3,
+ "new_ind_country_log": 0.25,
+ "seat_shifts": [
+  {
+   "file": "data/curated/forecast-v1/seat-shifts-2026.csv",
+   "col": "oth_count",
+   "target": "OTH",
+   "coef": 1.0,
+   "coef_sd": 0.15,
+   "center": true,
+   "classic_only": false,
+   "times_state_swing": false
+  },
+  {
+   "file": "data/curated/forecast-v1/seat-shifts-2026.csv",
+   "col": "retire_gap",
+   "target": "ALP_LNP",
+   "coef": 1.0,
+   "coef_sd": 0.5,
+   "center": true,
+   "classic_only": true,
+   "times_state_swing": false
+  },
+  {
+   "file": "data/curated/forecast-v1/seat-shifts-2026.csv",
+   "col": "a_grn_young",
+   "target": "GRN",
+   "coef": 1.0,
+   "coef_sd": 0.5,
+   "center": true,
+   "classic_only": false,
+   "times_state_swing": false
+  }
+ ],
+ "trend_local_linear": true,
+ "swing_scale_party": {
+  "ALP": "additive",
+  "LNP": "additive",
+  "GRN": "mixed",
+  "OTH": "mixed"
+ },
+ "swing_additive_floor_frac": 0.4,
+ "seat_sd_country_mult": 1.35,
+ "seat_sd_melbourne_mult": 0.85,
+ "new_ind_margin_log": 3.4,
+ "new_ind_open_log": 0.3,
+ "final_pair_rates_override": {
+  "LNP-ON": {
+   "ALP": 0.69,
+   "GRN": 0.65
+  }
+ },
+ "grn_bt_flow_means": {
+  "final": {
+   "ALP-GRN": {
+    "OTH": 0.39
+   }
+  },
+  "weights": {
+   "OTH": {
+    "GRN": 0.33
+   },
+   "IND": {
+    "GRN": 0.4
+   }
+  }
+ },
+ "cred_ind_file": "data/curated/forecast-v1/credible-ind-2026.csv",
+ "cred_ind_col": "boost_half",
+ "cred_ind_source": {
+  "ALP": 1.0,
+  "GRN": 1.0,
+  "OTH": 1.0
+ }
+}

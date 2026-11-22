@@ -1,0 +1,36 @@
+{
+ "schema": "vicmodel.on-poll-error-history.v1",
+ "compiled_at": "2026-11-10",
+ "definition": "Average of published final-fortnight statewide/national voting-intention polls minus the actual One Nation first-preference share, percentage points. Positive = polls overstated One Nation.",
+ "elections": {
+  "qld2017": {
+   "polls": [["Newspoll", "2017-11-24", 13.0], ["Galaxy", "2017-11-24", 12.0], ["ReachTEL", "2017-11-20", 17.0], ["ReachTEL", "2017-11-13", 16.4]],
+   "poll_mean": 14.6, "actual": 13.73, "error_pp": 0.87,
+   "note": "One Nation contested 61 of 93 seats; statewide intention questions still asked of every respondent.",
+   "source": "https://en.wikipedia.org/wiki/2017_Queensland_state_election"
+  },
+  "qld2024": {
+   "polls": [["uComms", "2024-10-24", 7.8], ["Newspoll", "2024-10-24", 8.0]],
+   "poll_mean": 7.9, "actual": 8.00, "error_pp": -0.10,
+   "note": "One Nation contested all 93 seats. Only two final-fortnight polls separately report One Nation in the retrieved table.",
+   "source": "https://en.wikipedia.org/wiki/2024_Queensland_state_election"
+  },
+  "fed2025": {
+   "polls": [["Roy Morgan", "2025-05-02", 6.5], ["Ipsos", "2025-05-01", 8.0], ["Freshwater Strategy", "2025-05-01", 8.0], ["Newspoll", "2025-05-01", 8.0], ["YouGov", "2025-05-01", 8.5], ["DemosAU", "2025-04-30", 9.0], ["DemosAU", "2025-04-29", 9.0], ["RedBridge/Accent", "2025-04-29", 8.0], ["Spectre Strategy", "2025-04-28", 9.5], ["Resolve Strategic", "2025-04-28", 7.0]],
+   "poll_mean": 8.15, "actual": 6.4, "error_pp": 1.75,
+   "note": "National House of Representatives vote.",
+   "source": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Australian_federal_election"
+  },
+  "sa2026": {
+   "polls": [["Newspoll", "2026-03-18", 22.0], ["DemosAU", "2026-03-18", 23.0], ["YouGov", "2026-03-17", 22.0], ["Resolve", "2026-03-16", 28.0], ["Fox & Hedgehog", "2026-03-16", 21.0]],
+   "poll_mean": 23.2, "actual": 22.9, "error_pp": 0.30,
+   "note": "The closest analogue: One Nation surging above 20% at a state election. One Nation won 4 seats and ran second in 29.",
+   "source": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_South_Australian_state_election"
+  }
+ },
+ "not_usable": {
+  "wa2017": "Final WA 2017 polls did not report One Nation separately (it sat inside Others); actual 4.93%."
+ },
+ "summary": {"n_elections": 4, "mean_error_pp": 0.705, "rms_error_pp": 0.996},
+ "use": "Model v1.12 sets One Nation's shared election-wide poll error from these cases: mean correction -bias_mean_shrink x mean error, sd max(RMS, bias_sd_floor_on). The floor (2.0 pp) is kept above the 1.0 pp RMS because four elections in other jurisdictions are thin evidence for a party polling 22%."
+}

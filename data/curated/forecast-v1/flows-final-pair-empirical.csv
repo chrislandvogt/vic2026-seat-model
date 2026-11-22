@@ -1,0 +1,10 @@
+origin,first,second,pair,rate_to_first,sd_between_districts,n_districts,ballots,beta_concentration,events
+GRN,ALP,LNP,ALP-LNP,0.8002,0.054,76,462732,53.8,"vic2014_la,vic2018_la,vic2022_la"
+LNP,ALP,GRN,ALP-GRN,0.4951,0.1543,13,103312,9.5,"vic2014_la,vic2018_la,vic2022_la"
+IND,ALP,LNP,ALP-LNP,0.5508,0.16,11,93928,8.7,"vic2014_la,vic2018_la,vic2022_la"
+ALP,IND,LNP,IND-LNP,0.746,0.0761,5,42933,31.7,"vic2014_la,vic2018_la,vic2022_la"
+ALP,GRN,LNP,GRN-LNP,0.8354,0.0238,3,33437,241.3,"vic2014_la,vic2018_la,vic2022_la"
+LNP,ALP,IND,ALP-IND,0.2075,,1,9976,,vic2018_la
+OTH,ALP,LNP,ALP-LNP,0.457,0.0026,2,9961,35659.0,"vic2018_la,vic2022_la"
+GRN,ALP,IND,ALP-IND,0.7642,,1,7977,,vic2018_la
+IND,ALP,GRN,ALP-GRN,0.6116,,1,4441,,vic2018_la
